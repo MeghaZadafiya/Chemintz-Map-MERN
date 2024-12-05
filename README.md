@@ -92,23 +92,6 @@ Access the App: Open your browser and navigate to:
 **Frontend: http://localhost:3000
 Backend API: http://localhost:5000**
 
-**Folder Structure**
-graphql
-Copy code
-facility-locator/
-├── backend/              # Backend code
-│   ├── controllers/      # Route controllers
-│   ├── models/           # MongoDB models
-│   ├── routes/           # API routes
-│   ├── config/           # Database and JWT configuration
-│   └── server.js         # Entry point for the backend
-├── frontend/             # Frontend code
-│   ├── src/
-│   │   ├── components/   # React components
-│   │   ├── pages/        # Pages for different routes
-│   │   └── App.js        # Main React app entry point
-└── README.md             # Project documentation
-
 **Future Enhancements**
 Add filtering and sorting options for facility search results.
 Implement real-time notifications for nearby events or offers.
