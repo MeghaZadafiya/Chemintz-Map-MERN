@@ -1,0 +1,5292 @@
+[{
+  "_id": {
+    "$oid": "66757beca4bc601510f8b947"
+  },
+  "name": "Albert-Einstein-Grundschule",
+  "category": "Grundschule",
+  "address": "Albert-Einstein-GS Max-Türpe-Straße 58 09122 Chemnitz",
+  "contact": "0371 271710",
+  "latitude": 50.79227491024383,
+  "longitude": 12.887276265842216,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757beca4bc601510f8b948"
+  },
+  "name": "Annenschule -Grundschule-",
+  "category": "Grundschule",
+  "address": "Annenschule -GS- Brauhausstraße 16 09111 Chemnitz",
+  "contact": "0371 36913120",
+  "latitude": 50.82805392528311,
+  "longitude": 12.92182987221165,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757beca4bc601510f8b949"
+  },
+  "name": "Anton-S.-Makarenko-Grundschule",
+  "category": "Grundschule",
+  "address": "Anton-S.-Makarenko-GS Ernst-Moritz-Arndt-Straße 4 09130 Chemnitz",
+  "contact": "0371 722139",
+  "latitude": 50.83199197874254,
+  "longitude": 12.962917779833731,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757beca4bc601510f8b94a"
+  },
+  "name": "Baumgartenschule Grüna -Grundschule-",
+  "category": "Grundschule",
+  "address": "Baumgartenschule Grüna -GS- August-Bebel-Straße (Grüna) 7 09224 Chemnitz",
+  "contact": "0371 850089",
+  "latitude": 50.81341549804806,
+  "longitude": 12.785757098248421,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757beca4bc601510f8b94b"
+  },
+  "name": "Charles-Darwin-Grundschule",
+  "category": "Grundschule",
+  "address": "Charles-Darwin-GS Alfred-Neubert-Straße 25 09123 Chemnitz",
+  "contact": "0371 266020",
+  "latitude": 50.78408359450152,
+  "longitude": 12.901955700183862,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757beca4bc601510f8b94c"
+  },
+  "name": "Dr.-Salvador-Allende-Grundschule",
+  "category": "Grundschule",
+  "address": "Dr.-Salvador-Allende-GS Straße Usti nad Labem 279 09119 Chemnitz",
+  "contact": "0371 271210",
+  "latitude": 50.80526213588403,
+  "longitude": 12.885080710163107,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757beca4bc601510f8b94d"
+  },
+  "name": "Emanuel-Gottlieb-Flemming-Grundschule",
+  "category": "Grundschule",
+  "address": "Emanuel-Gottlieb-Flemming-GS Albert-Schweitzer-Straße 61 09116 Chemnitz",
+  "contact": "0371 300686",
+  "latitude": 50.83999112547952,
+  "longitude": 12.882357439342707,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757beca4bc601510f8b94e"
+  },
+  "name": "Gebrüder-Grimm-Grundschule",
+  "category": "Grundschule",
+  "address": "Gebrüder-Grimm-GS Heinrich-Beck-Straße 2 09112 Chemnitz",
+  "contact": "0371 302956",
+  "latitude": 50.829255202729385,
+  "longitude": 12.908050078603239,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757beca4bc601510f8b94f"
+  },
+  "name": "Gotthold-Ephraim-Lessing-Grundschule",
+  "category": "Grundschule",
+  "address": "Gotthold-Ephraim-Lessing-GS Reinhardtstraße 6 09130 Chemnitz",
+  "contact": "0371 432660",
+  "latitude": 50.841262725248,
+  "longitude": 12.939770759291099,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757beca4bc601510f8b950"
+  },
+  "name": "Grundschule \"Am Stadtpark\"",
+  "category": "Grundschule",
+  "address": "GS \"Am Stadtpark\" Friedrich-Hähnel-Straße 86 09120 Chemnitz",
+  "contact": "0371 229027",
+  "latitude": 50.80449576265739,
+  "longitude": 12.895297700597999,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757beca4bc601510f8b951"
+  },
+  "name": "Grundschule Adelsberg",
+  "category": "Grundschule",
+  "address": "GS Adelsberg Adelsbergstraße 296 09127 Chemnitz",
+  "contact": "0371 7711180",
+  "latitude": 50.81303837629632,
+  "longitude": 12.988150503785677,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757beca4bc601510f8b952"
+  },
+  "name": "Grundschule Altendorf",
+  "category": "Grundschule",
+  "address": "GS Altendorf Ernst-Heilmann-Straße 11 09116 Chemnitz",
+  "contact": "0371 36914 16",
+  "latitude": 50.832554610452455,
+  "longitude": 12.884042270194543,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757beca4bc601510f8b953"
+  },
+  "name": "Grundschule Schönau",
+  "category": "Grundschule",
+  "address": "GS Schönau Guerickestraße 38 09116 Chemnitz",
+  "contact": "0371 8157621",
+  "latitude": 50.82298332018087,
+  "longitude": 12.873375293321073,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757beca4bc601510f8b954"
+  },
+  "name": "Grundschule Siegmar",
+  "category": "Grundschule",
+  "address": "GS Siegmar Rosmarinstraße 12 09117 Chemnitz",
+  "contact": "0371 842040",
+  "latitude": 50.81931225382914,
+  "longitude": 12.845171896718155,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757beca4bc601510f8b955"
+  },
+  "name": "Grundschule Sonnenberg",
+  "category": "Grundschule",
+  "address": "GS Sonnenberg Ludwig-Kirsch-Straße 27 09130 Chemnitz",
+  "contact": "0371 36777220",
+  "latitude": 50.83649726829562,
+  "longitude": 12.94122647418176,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757beca4bc601510f8b956"
+  },
+  "name": "Heinrich-Heine-Grundschule",
+  "category": "Grundschule",
+  "address": "H.-Heine-GS Augsburger Straße 32 09126 Chemnitz",
+  "contact": "0371 2786860",
+  "latitude": 50.815844361682586,
+  "longitude": 12.939923406250776,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757beca4bc601510f8b957"
+  },
+  "name": "Jan-Amos-Comenius-Grundschule",
+  "category": "Grundschule",
+  "address": "J.-A.-Comenius-GS Comeniusstraße 1 09120 Chemnitz",
+  "contact": "0371 5230716",
+  "latitude": 50.81071935171306,
+  "longitude": 12.914154454002219,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757beca4bc601510f8b958"
+  },
+  "name": "Kirchner-Grundschule",
+  "category": "Grundschule",
+  "address": "Kirchner-GS Chemnitzer Straße (Wittgensdorf) 2 09228 Chemnitz",
+  "contact": "037200 88233",
+  "latitude": 50.88095614441226,
+  "longitude": 12.869493196689449,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757beca4bc601510f8b959"
+  },
+  "name": "Ludwig-Richter-Grundschule",
+  "category": "Grundschule",
+  "address": "Ludwig-Richter-GS Ludwig-Richter-Straße 19 09131 Chemnitz",
+  "contact": "0371 414803",
+  "latitude": 50.85272619881937,
+  "longitude": 12.948876582654156,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757beca4bc601510f8b95a"
+  },
+  "name": "Obere Luisenschule -Grundschule-",
+  "category": "Grundschule",
+  "address": "Obere Luisenschule -GS- Fritz-Matschke-Straße 23 09113 Chemnitz",
+  "contact": "0371 338010",
+  "latitude": 50.841618951993816,
+  "longitude": 12.902795093273502,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757beca4bc601510f8b95b"
+  },
+  "name": "Pablo-Neruda-Grundschule",
+  "category": "Grundschule",
+  "address": "Pablo-Neruda-GS Hoffmannstraße 35 09112 Chemnitz",
+  "contact": "0371 369670",
+  "latitude": 50.82857916670574,
+  "longitude": 12.896804506471751,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757beca4bc601510f8b95c"
+  },
+  "name": "Rosa-Luxemburg-Grundschule am Brühl",
+  "category": "Grundschule",
+  "address": "Rosa-Luxemburg-GS am Brühl Brühl 59 09111 Chemnitz",
+  "contact": "0371 471410",
+  "latitude": 50.843412224729704,
+  "longitude": 12.924914650048374,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757beca4bc601510f8b95d"
+  },
+  "name": "Rudolfschule -Grundschule-",
+  "category": "Grundschule",
+  "address": "Rudolfschule  -GS- Rudolfstraße 12 09126 Chemnitz",
+  "contact": "0371 27868880",
+  "latitude": 50.82915363047975,
+  "longitude": 12.936482133712657,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757beca4bc601510f8b95e"
+  },
+  "name": "Schlossschule -Grundschule-",
+  "category": "Grundschule",
+  "address": "Schlossschule -GS- Küchwaldstraße 4 09113 Chemnitz",
+  "contact": "0371 3300397",
+  "latitude": 50.846949903328856,
+  "longitude": 12.913507638214984,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757beca4bc601510f8b95f"
+  },
+  "name": "Schlossschule (Schulteil)",
+  "category": "Grundschule",
+  "address": "Schlossschule -GS-  ST Sport Wittgensdorfer Straße 2b 09114 Chemnitz",
+  "contact": "0371 3302443",
+  "latitude": 50.85085819039501,
+  "longitude": 12.899508308115344,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757beca4bc601510f8b960"
+  },
+  "name": "Valentina-Tereschkowa-Grundschule",
+  "category": "Grundschule",
+  "address": "Valentina-Tereschkowa-GS Haydnstraße 21 09119 Chemnitz",
+  "contact": "0371 369160",
+  "latitude": 50.81781000833815,
+  "longitude": 12.901345159645743,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757beca4bc601510f8b961"
+  },
+  "name": "Grundschule Charlottenstraße  - ab Einschulungsjahr 2024/2025",
+  "category": "Grundschule",
+  "address": "GS Charlottenstraße - ab Einschulungsjahr 2023 Charlottenstraße 52 09126 Chemnitz",
+  "contact": "0371 510078",
+  "latitude": 50.82732329491977,
+  "longitude": 12.944805462507018,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757beca4bc601510f8b962"
+  },
+  "name": "Grundschule Weststraße",
+  "category": "Grundschule",
+  "address": "GS Weststraße Weststraße 19 09112 Chemnitz",
+  "contact": "0371 2674690",
+  "latitude": 50.83262400841763,
+  "longitude": 12.907378257134623,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757beca4bc601510f8b963"
+  },
+  "name": "Grundschule \"Südlicher Sonnenberg\" ",
+  "category": "Grundschule",
+  "address": "GS \"Südlicher Sonnenberg\" Jakobstraße 20 09130 Chemnitz",
+  "contact": "0371 2675850",
+  "latitude": 50.83229795618949,
+  "longitude": 12.936649927940708,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757beca4bc601510f8b964"
+  },
+  "name": "Kooperationsschule Chemnitz (Grund- und Oberschule)",
+  "category": "Grundschule",
+  "address": "Kooperationsschule Chemnitz (GS+OS) Heinrich-Schütz-Straße 61 09130 Chemnitz",
+  "contact": "0371 27868870",
+  "latitude": 50.83943671972351,
+  "longitude": 12.954409907451021,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757beca4bc601510f8b965"
+  },
+  "name": "Montessori-Schule Chemnitz - Freie integrative Schule -Grundschule-",
+  "category": "Grundschule",
+  "address": "Montessori-Schule (GS) Ernst-Enge-Straße 21 09127 Chemnitz",
+  "contact": "0371 71589",
+  "latitude": 50.823879772374774,
+  "longitude": 12.959361180891054,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757beca4bc601510f8b966"
+  },
+  "name": "Freie Montessori-Grundschule Stelzendorf",
+  "category": "Grundschule",
+  "address": "Freie Montessori-GS Stelzendorf Stelzendorfer Straße 271 09116 Chemnitz",
+  "contact": "0371 2366890",
+  "latitude": 50.79815176384197,
+  "longitude": 12.862644944615019,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757beca4bc601510f8b967"
+  },
+  "name": "BIP-Kreativitätsgrundschule",
+  "category": "Grundschule",
+  "address": "BIP Kreativitäts-GS Dittersdorfer Straße 146c 09122 Chemnitz",
+  "contact": "0371 3342820",
+  "latitude": 50.79356927031798,
+  "longitude": 12.897981466079086,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757beca4bc601510f8b968"
+  },
+  "name": "DPFA-Regenbogen-Grundschule Chemnitz",
+  "category": "Grundschule",
+  "address": "DPFA-Regenbogen-Grundschule Chemnitz Emilienstraße 50 09131 Chemnitz",
+  "contact": "0371 45901100",
+  "latitude": 50.85139274709941,
+  "longitude": 12.939252545827824,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757beca4bc601510f8b969"
+  },
+  "name": "Freie Grundschule \"Leonardo\" Chemnitz",
+  "category": "Grundschule",
+  "address": "Freie GS \"Leonardo\" Chemnitz Wolgograder Allee 184 09123 Chemnitz",
+  "contact": "0371 4959960",
+  "latitude": 50.784028611159734,
+  "longitude": 12.881441224950597,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757beca4bc601510f8b96a"
+  },
+  "name": "Evangelisches Schulzentrum Chemnitz (Grundschule)",
+  "category": "Grundschule",
+  "address": "Evangelisches Schulzentrum (GS) Tschaikowskistraße 49 09130 Chemnitz",
+  "contact": "0371 4331970",
+  "latitude": 50.837232449280734,
+  "longitude": 12.93865790695395,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757beca4bc601510f8b96b"
+  },
+  "name": "gruuna Schule gGmbH (Grundschule)",
+  "category": "Grundschule",
+  "address": "gruuna Schule gGmbH (Grundschule) Saydaer Straße 21 09125 Chemnitz",
+  "contact": "0371 33715680",
+  "latitude": 50.797852160109706,
+  "longitude": 12.9352089883882,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757beca4bc601510f8b96c"
+  },
+  "name": "Albert-Schweitzer-Oberschule",
+  "category": "Oberschule",
+  "address": "Albert-Schweitzer-OS Albert-Köhler-Straße 48 09122 Chemnitz",
+  "contact": "0371 266010",
+  "latitude": 50.79303114663459,
+  "longitude": 12.88894232665042,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757beca4bc601510f8b96d"
+  },
+  "name": "Friedrich-Adolf-Wilhelm-Diesterweg-Oberschule",
+  "category": "Oberschule",
+  "address": "F.-A.-W.-Diesterweg-OS Kreherstraße 101 09127 Chemnitz",
+  "contact": "0371 54302480",
+  "latitude": 50.81961745389353,
+  "longitude": 12.954477908695733,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757beca4bc601510f8b96e"
+  },
+  "name": "Oberschule \"Am Körnerplatz\" Chemnitz",
+  "category": "Oberschule",
+  "address": "OS \"Am Körnerplatz\" Uhlandstraße 2 09130 Chemnitz",
+  "contact": "0371 2674600",
+  "latitude": 50.83585676716109,
+  "longitude": 12.935366896466746,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757beca4bc601510f8b96f"
+  },
+  "name": "Sportoberschule Chemnitz",
+  "category": "Oberschule",
+  "address": "Sportoberschule Reichenhainer Straße 206 09125 Chemnitz",
+  "contact": "0371 4884640",
+  "latitude": 50.80297053261766,
+  "longitude": 12.93725188194701,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757beca4bc601510f8b970"
+  },
+  "name": "Josephinenschule -Oberschule-",
+  "category": "Oberschule",
+  "address": "Josephinenschule -OS- Josephinenplatz 9 09113 Chemnitz",
+  "contact": "0371 449790",
+  "latitude": 50.84987076974014,
+  "longitude": 12.929649219000636,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757beca4bc601510f8b971"
+  },
+  "name": "Oberschule \"Am Flughafen\"",
+  "category": "Oberschule",
+  "address": "OS \"Am Flughafen\" Straße Usti nad Labem 277 09119 Chemnitz",
+  "contact": "0371 271200",
+  "latitude": 50.8057303827128,
+  "longitude": 12.885622224287136,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757beca4bc601510f8b972"
+  },
+  "name": "Oberschule Altendorf",
+  "category": "Oberschule",
+  "address": "OS Altendorf Ernst-Heilmann-Straße 11 09116 Chemnitz",
+  "contact": "0371 369140",
+  "latitude": 50.832554610452455,
+  "longitude": 12.884042270194543,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757beca4bc601510f8b973"
+  },
+  "name": "Oberschule Gablenz",
+  "category": "Oberschule",
+  "address": "OS Gablenz Adelsbergstraße 90 09126 Chemnitz",
+  "contact": "0371 50710",
+  "latitude": 50.83100697332915,
+  "longitude": 12.952786237536666,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757beca4bc601510f8b974"
+  },
+  "name": "Oberschule Reichenbrand",
+  "category": "Oberschule",
+  "address": "OS Reichenbrand Lennéstraße 1 09117 Chemnitz",
+  "contact": "0371 815750",
+  "latitude": 50.8115128110385,
+  "longitude": 12.825125822599613,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757beca4bc601510f8b975"
+  },
+  "name": "Oberschule Schönau/Siegmar",
+  "category": "Oberschule",
+  "address": "OS Schönau/Siegmar Guerickestraße 38 09116 Chemnitz",
+  "contact": "0371 815760",
+  "latitude": 50.82298332018087,
+  "longitude": 12.873375293321073,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757beca4bc601510f8b976"
+  },
+  "name": "Untere Luisenschule -Oberschule-",
+  "category": "Oberschule",
+  "address": "Untere Luisenschule -OS- Fritz-Matschke-Straße 21 09113 Chemnitz",
+  "contact": "0371 374190",
+  "latitude": 50.84130400292364,
+  "longitude": 12.902693575413581,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757beca4bc601510f8b977"
+  },
+  "name": "Grundschule Borna",
+  "category": "Grundschule",
+  "address": "GS Borna Wittgensdorfer Straße 121a 09114 Chemnitz",
+  "contact": "0371 3383290",
+  "latitude": 50.86333899054661,
+  "longitude": 12.885036060313473,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757beca4bc601510f8b978"
+  },
+  "name": "Grundschule Ebersdorf",
+  "category": "Grundschule",
+  "address": "GS Ebersdorf Lichtenauer Straße 45 09131 Chemnitz",
+  "contact": "0371 410824",
+  "latitude": 50.87645460545771,
+  "longitude": 12.970643467030207,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757beca4bc601510f8b979"
+  },
+  "name": "Grundschule Einsiedel",
+  "category": "Grundschule",
+  "address": "GS Einsiedel Harthauer Weg 5 09123 Chemnitz",
+  "contact": "037209 2273",
+  "latitude": 50.770338850851104,
+  "longitude": 12.970693287054354,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757beca4bc601510f8b97a"
+  },
+  "name": "Grundschule Euba",
+  "category": "Grundschule",
+  "address": "GS Euba An der Kirche 2 09128 Chemnitz",
+  "contact": "03726 2923",
+  "latitude": 50.83274108848732,
+  "longitude": 13.02075410830923,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757beca4bc601510f8b97b"
+  },
+  "name": "Grundschule Gablenz",
+  "category": "Grundschule",
+  "address": "GS Gablenz Carl-von-Ossietzky-Straße 171 09127 Chemnitz",
+  "contact": "0371 750080",
+  "latitude": 50.822669487388936,
+  "longitude": 12.964534556245244,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757beca4bc601510f8b97c"
+  },
+  "name": "Grundschule Glösa",
+  "category": "Grundschule",
+  "address": "GS Glösa Schulberg 3 09114 Chemnitz",
+  "contact": "0371 4590440",
+  "latitude": 50.87262764010167,
+  "longitude": 12.911063451388259,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757beca4bc601510f8b97d"
+  },
+  "name": "Grundschule Harthau",
+  "category": "Grundschule",
+  "address": "GS Harthau Stöcklstraße 4 09125 Chemnitz",
+  "contact": "0371 510078",
+  "latitude": 50.776156799621845,
+  "longitude": 12.92491876651861,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757beca4bc601510f8b97e"
+  },
+  "name": "Grundschule Klaffenbach",
+  "category": "Grundschule",
+  "address": "GS Klaffenbach Klaffenbacher Hauptstraße 85 09123 Chemnitz",
+  "contact": "0371 2607084",
+  "latitude": 50.761810737910615,
+  "longitude": 12.9132338131318,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757beca4bc601510f8b97f"
+  },
+  "name": "Grundschule Kleinolbersdorf",
+  "category": "Grundschule",
+  "address": "GS Kleinolbersdorf Ferdinandstraße 97 09128 Chemnitz",
+  "contact": "0371 772322",
+  "latitude": 50.80093643905038,
+  "longitude": 13.019149390280068,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757beca4bc601510f8b980"
+  },
+  "name": "Grundschule Mittelbach",
+  "category": "Grundschule",
+  "address": "GS Mittelbach Hofer Straße (Mittelbach) 35 09224 Chemnitz",
+  "contact": "0371 852558",
+  "latitude": 50.79920310264684,
+  "longitude": 12.798821978131825,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757beca4bc601510f8b981"
+  },
+  "name": "Grundschule Reichenbrand",
+  "category": "Grundschule",
+  "address": "GS Reichenbrand Lennéstraße 1 09117 Chemnitz",
+  "contact": "0371 8157521",
+  "latitude": 50.8115128110385,
+  "longitude": 12.825125822599613,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757beca4bc601510f8b982"
+  },
+  "name": "Grundschule Reichenhain",
+  "category": "Grundschule",
+  "address": "GS Reichenhain Genossenschaftsweg 2 09125 Chemnitz",
+  "contact": "0371 539020",
+  "latitude": 50.79785290871667,
+  "longitude": 12.953251354902541,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757beca4bc601510f8b983"
+  },
+  "name": "Grundschule Rabenstein \"Hans Carl von Carlowitz\"",
+  "category": "Grundschule",
+  "address": "GS Rabenstein Trützschlerstraße 10 09117 Chemnitz",
+  "contact": "0371 842060",
+  "latitude": 50.827283475002496,
+  "longitude": 12.834303607384584,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757beca4bc601510f8b984"
+  },
+  "name": "Grundschule Röhrsdorf",
+  "category": "Grundschule",
+  "address": "GS Röhrsdorf Beethovenweg 44 09247 Chemnitz",
+  "contact": "03722 504860",
+  "latitude": 50.86255928070725,
+  "longitude": 12.835609900999337,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757beca4bc601510f8b985"
+  },
+  "name": "Georgius-Agricola-Gymnasium",
+  "category": "Gymnasium",
+  "address": "Georgius-Agricola-Gymnasium Park der Opfer des Faschismus 2 09111 Chemnitz",
+  "contact": "0371 3989-2700",
+  "latitude": 50.830423861532616,
+  "longitude": 12.930521541299386,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757beca4bc601510f8b986"
+  },
+  "name": "Gymnasium Einsiedel",
+  "category": "Gymnasium",
+  "address": "Gymnasium Einsiedel Niederwaldstraße 11 09123 Chemnitz",
+  "contact": "037209 6980",
+  "latitude": 50.783061938332295,
+  "longitude": 12.97358089659069,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757beca4bc601510f8b987"
+  },
+  "name": "Johannes-Kepler-Gymnasium",
+  "category": "Gymnasium",
+  "address": "Johannes-Kepler-Gymnasium Humboldtplatz 1 09130 Chemnitz",
+  "contact": "0371 3989-2800",
+  "latitude": 50.835351159452536,
+  "longitude": 12.948060056985298,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757beca4bc601510f8b988"
+  },
+  "name": "Johann-Wolfgang-von-Goethe-Gymnasium",
+  "category": "Gymnasium",
+  "address": "Johann-Wolfgang-von-Goethe-Gymnasium Bernsdorfer Straße 126 09126 Chemnitz",
+  "contact": "0371 520700",
+  "latitude": 50.81591741473485,
+  "longitude": 12.942169056117814,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757beca4bc601510f8b989"
+  },
+  "name": "Karl-Schmidt-Rottluff-Gymnasium, Haus II",
+  "category": "Gymnasium",
+  "address": "Karl-Schmidt-Rottluff-Gymnasium, Haus 2 Hohe Straße 35 09112 Chemnitz",
+  "contact": "0371 3989 2950",
+  "latitude": 50.835266831280705,
+  "longitude": 12.911862861038992,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757beca4bc601510f8b98a"
+  },
+  "name": "Sportgymnasium Chemnitz",
+  "category": "Gymnasium",
+  "address": "Sportgymnasium Reichenhainer Straße 210 09125 Chemnitz",
+  "contact": "0371 4884600",
+  "latitude": 50.802884141863004,
+  "longitude": 12.936586997522001,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757beca4bc601510f8b98b"
+  },
+  "name": "Karl-Schmidt-Rottluff-Gymnasium, Haus I",
+  "category": "Gymnasium",
+  "address": "Karl-Schmidt-Rottluff-Gymnasium, Haus 1 Hohe Straße 25 09112 Chemnitz",
+  "contact": "0371 3989 2950",
+  "latitude": 50.83286451888384,
+  "longitude": 12.913415945212842,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757beca4bc601510f8b98c"
+  },
+  "name": "Waldorfschule Chemnitz (Gymnasium)",
+  "category": "Gymnasium",
+  "address": "Waldorfschule (Gym) Sandstraße 102 09114 Chemnitz",
+  "contact": "0371 334076-0",
+  "latitude": 50.86201867200133,
+  "longitude": 12.898026729560554,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757beca4bc601510f8b98d"
+  },
+  "name": "Evangelisches Schulzentrum Chemnitz (Gymnasium)",
+  "category": "Gymnasium",
+  "address": "Evangelisches Schulzentrum (Gym) Ludwig-Richter-Straße 21 09131 Chemnitz",
+  "contact": "0371 4443380",
+  "latitude": 50.85328806873376,
+  "longitude": 12.949251623217503,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757beca4bc601510f8b98e"
+  },
+  "name": "Landesschule für Blinde und Sehbehinderte Förderzentrum Chemnitz",
+  "category": "Förderschule",
+  "address": "Landesschule für Blinde/Sehbehinderte Flemmingstraße 8g 09116 Chemnitz",
+  "contact": "0371 80 81 8 137",
+  "latitude": 50.8425583937128,
+  "longitude": 12.87674914752201,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757beca4bc601510f8b98f"
+  },
+  "name": "PARZIVAL-Schule (Förderschule)",
+  "category": "Förderschule",
+  "address": "Waldorfschule (Förderschule) Auerswalder Straße 120 09114 Chemnitz",
+  "contact": "0371 334076-70",
+  "latitude": 50.86528037788661,
+  "longitude": 12.898377533848942,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757beca4bc601510f8b990"
+  },
+  "name": "Berufliches Schulzentrum für Wirtschaft I",
+  "category": "Berufsbildende Schule",
+  "address": "BSZ Wirtschaft I Lutherstraße 2 09126 Chemnitz",
+  "contact": "0371 400580",
+  "latitude": 50.826219494742546,
+  "longitude": 12.935470564491375,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757beca4bc601510f8b991"
+  },
+  "name": "Berufliches Schulzentrum für Wirtschaft II",
+  "category": "Berufsbildende Schule",
+  "address": "BSZ Wirtschaft II Kanzlerstraße 9 09112 Chemnitz",
+  "contact": "0371 383120",
+  "latitude": 50.832444887765604,
+  "longitude": 12.90560335623105,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757beca4bc601510f8b992"
+  },
+  "name": "Berufliches Schulzentrum für Wirtschaft II  (Außenstelle)",
+  "category": "Berufsbildende Schule",
+  "address": "BSZ Wirtschaft II,  Ast. Wielandstraße 4 09112 Chemnitz",
+  "contact": "0371 38312-115",
+  "latitude": 50.83196542783848,
+  "longitude": 12.910054869283583,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757beca4bc601510f8b993"
+  },
+  "name": "Berufliches Schulzentrum für Technik III  -R.Hartmann-Schule-",
+  "category": "Berufsbildende Schule",
+  "address": "BSZ Technik III - Hartmannschule Annaberger Straße 186 09120 Chemnitz",
+  "contact": "0371 4884900",
+  "latitude": 50.80086345186939,
+  "longitude": 12.91041594674363,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757beca4bc601510f8b994"
+  },
+  "name": "Berufliches Schulzentrum für Technik II  -Handwerkerschule-",
+  "category": "Berufsbildende Schule",
+  "address": "BSZ Technik II - Handwerkerschule Schloßstraße 3 09111 Chemnitz",
+  "contact": "0371 488-8000",
+  "latitude": 50.838338363182764,
+  "longitude": 12.915651093702213,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757beca4bc601510f8b995"
+  },
+  "name": "Berufliches Schulzentrum für Technik I  -Industrieschule-",
+  "category": "Berufsbildende Schule",
+  "address": "BSZ Technik I - Industrieschule Park der Opfer des Faschismus 1 09111 Chemnitz",
+  "contact": "0371 3989-1000",
+  "latitude": 50.83082752815495,
+  "longitude": 12.92956830735016,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757beca4bc601510f8b996"
+  },
+  "name": "Berufliches Schulzentrum für Ernährung, Gastgewerbe, Gesundheit",
+  "category": "Berufsbildende Schule",
+  "address": "BSZ Ernährung, Gastgewerbe, Gesundheit Arthur-Bretschneider-Straße 17 09113 Chemnitz",
+  "contact": "0371 374360",
+  "latitude": 50.84508803255143,
+  "longitude": 12.901360603160697,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757beca4bc601510f8b997"
+  },
+  "name": "Berufliches Schulzentrum für Gesundheit und Sozialwesen",
+  "category": "Berufsbildende Schule",
+  "address": "BSZ Gesundheit und Sozialwesen An der Markthalle 10 09111 Chemnitz",
+  "contact": "0371 675210",
+  "latitude": 50.83531072129914,
+  "longitude": 12.916247901113596,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757beca4bc601510f8b998"
+  },
+  "name": "Medizinische Berufsfachschule der Klinikum Chemnitz gGmbH - BFS für  bundesrechtlich geregelte Gesundheitsberufe",
+  "category": "Berufsbildende Schule",
+  "address": "Medizinische BFS des Klinikums Chemnitz Berganger 11 09116 Chemnitz",
+  "contact": "0371 3391077",
+  "latitude": 50.838891775246154,
+  "longitude": 12.873131919758633,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757beca4bc601510f8b999"
+  },
+  "name": "Berufliches Schulzentrum der FORTIS-AKADEMIE gemeinnützige Bildungs GmbH",
+  "category": "Berufsbildende Schule",
+  "address": "BSZ der FORTIS-AKADEMIE An der Wiesenmühle 1 09224 Chemnitz",
+  "contact": "0371 262220",
+  "latitude": 50.81221863549974,
+  "longitude": 12.811425861980364,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757beca4bc601510f8b99a"
+  },
+  "name": "Euro Akademie Chemnitz",
+  "category": "Berufsbildende Schule",
+  "address": "Euro Akademie Chemnitz Hartmannstraße 3a 09111 Chemnitz",
+  "contact": "0371 43311230",
+  "latitude": 50.836097722906445,
+  "longitude": 12.91780320353554,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757beca4bc601510f8b99b"
+  },
+  "name": "Deutsches Erwachsenen-Bildungswerk in Sachsen gemeinnützige Schulträger-GmbH, Privates beru?iches Schulzentrum für Gesundheitsberufe P?ege und Sozialwesen des DEB in Chemnitz",
+  "category": "Berufsbildende Schule",
+  "address": "DEB in Chemnitz Heinrich-Schütz-Straße 109 09130 Chemnitz",
+  "contact": "0371 750180",
+  "latitude": 50.83771509679186,
+  "longitude": 12.961564957650323,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757beca4bc601510f8b99c"
+  },
+  "name": "Medizinische Berufsfachschule für Gesundheits- und Krankenpflege am DRK-Krankenhaus Chemnitz-Rabenstein",
+  "category": "Berufsbildende Schule",
+  "address": "DRK - BFS Gesundheits- und Krankenpflege Unritzstraße 23 09117 Chemnitz",
+  "contact": "0371 8329401",
+  "latitude": 50.82183777009024,
+  "longitude": 12.825723864671973,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757beca4bc601510f8b99d"
+  },
+  "name": "Evangelische Berufsfachschule für Krankenpflege und Altenpflege der Bethanien-Krankenhaus Chemnitz gemeinnützige GmbH",
+  "category": "Berufsbildende Schule",
+  "address": "Evangelische BFS Kranken-/Altenpflege Zeisigwaldstraße 101 09130 Chemnitz",
+  "contact": "0371 4301020",
+  "latitude": 50.83963124637235,
+  "longitude": 12.963036689188417,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757beca4bc601510f8b99e"
+  },
+  "name": "F+U gemeinnützige Bildungseinrichtung für Fortbildung und Umschulung Sachsen GmbH",
+  "category": "Berufsbildende Schule",
+  "address": "F+U Sachsen gGmbH Rathausstraße 7 09111 Chemnitz",
+  "contact": "0371 6660151",
+  "latitude": 50.83225360986113,
+  "longitude": 12.922268378243922,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757beca4bc601510f8b99f"
+  },
+  "name": "bsw - Fachschule für Technik Chemnitz Fachrichtung  Mechatronik im Bildungswerk der Sächsischen Wirtschaft gGmbH",
+  "category": "Berufsbildende Schule",
+  "address": "bsw - Fachschulen für Technik Annaberger Straße 73 09111 Chemnitz",
+  "contact": "0351 56362322",
+  "latitude": 50.823867621204194,
+  "longitude": 12.92053533934659,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757beca4bc601510f8b9a0"
+  },
+  "name": "Berufsschule und Berufsbildende Förderschule des Vereins zur beruflichen Förderung und Ausbildung e. V. (VBFA)",
+  "category": "Berufsbildende Schule",
+  "address": "VBFA Berufsschule Chemnitz Chemnitztalstraße 66a 09114 Chemnitz",
+  "contact": "0371 44983-0",
+  "latitude": 50.862237010030555,
+  "longitude": 12.92204838801769,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757beca4bc601510f8b9a1"
+  },
+  "name": "WBS TRAINING SCHULEN gGmbH",
+  "category": "Berufsbildende Schule",
+  "address": "WBS TRAINING SCHULEN gGmbH Kauffahrtei 25 09120 Chemnitz",
+  "contact": "0371  24358120",
+  "latitude": 50.811333782947266,
+  "longitude": 12.905091094823016,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757beca4bc601510f8b9a2"
+  },
+  "name": "Freie Schulen Chemnitz der ASG - Anerkannten Schulgesellschaft mbH",
+  "category": "Berufsbildende Schule",
+  "address": "Freie Schulen Chemnitz der ASG Annaberger Straße 79 09120 Chemnitz",
+  "contact": "0371 530060",
+  "latitude": 50.82274452702207,
+  "longitude": 12.919097835289417,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757beca4bc601510f8b9a3"
+  },
+  "name": "Berufsfachschule und Fachschule für Sozialwesen und Berufsfachschule für Pflegehilfe der SSA - Sächsische Sozialakademie GmbH",
+  "category": "Berufsbildende Schule",
+  "address": "SSA - Sächsische Sozialakademie Altchemnitzer Straße 60 09120 Chemnitz",
+  "contact": "0371 27868500",
+  "latitude": 50.81793358412175,
+  "longitude": 12.918414579679707,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757beca4bc601510f8b9a4"
+  },
+  "name": "Berufsbildende Schule am Berufsbildungswerk Chemnitz der SFZ Förderzentrum gGmbH \nam Berufsbildungswerk \nChemnitz der SFZ \nFörderzentrum gGmbH",
+  "category": "Berufsbildende Schule",
+  "address": "SFZ Förderzentrum gGmbH Berufsbild. Schu Flemmingstraße 8c 09116 Chemnitz",
+  "contact": "0371 3344-0",
+  "latitude": 50.84202422512645,
+  "longitude": 12.876983808116613,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757beca4bc601510f8b9a5"
+  },
+  "name": "Berufsschule Chemnitz der ASG - Anerkannten Schulgesellschaft Sachsen mbH",
+  "category": "Berufsbildende Schule",
+  "address": "Berufsschule Chemnitz der ASG Annaberger Straße 79 09120 Chemnitz",
+  "contact": "0371 560414-25",
+  "latitude": 50.82274452702207,
+  "longitude": 12.919097835289417,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757beca4bc601510f8b9a6"
+  },
+  "name": "Helmut-Rödler-Schule für Krankengymnastik/Physiotherapie gGmbH",
+  "category": "Berufsbildende Schule",
+  "address": "Helmut-Rödler-Schule Schönherrstraße 8 09113 Chemnitz",
+  "contact": "0371 5905271",
+  "latitude": 50.85014136398654,
+  "longitude": 12.921645146031093,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757beca4bc601510f8b9a7"
+  },
+  "name": "DPFA-Schulen gemeinnützige GmbH - Bildungszentrum Chemnitz",
+  "category": "Berufsbildende Schule",
+  "address": "DPFA - Schulen gemeinnützige GmbH Emilienstraße 50 09113 Chemnitz",
+  "contact": "0371 45901130",
+  "latitude": 50.85139274709941,
+  "longitude": 12.939252545827824,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757beca4bc601510f8b9a8"
+  },
+  "name": "Ludwig Fresenius Schulen GmbH",
+  "category": "Berufsbildende Schule",
+  "address": "Ludwig Fresenius Schulen Ebertstraße 10 09126 Chemnitz",
+  "contact": "0371 227004",
+  "latitude": 50.81884647161512,
+  "longitude": 12.92730515992006,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757beca4bc601510f8b9a9"
+  },
+  "name": "Bildungs- und InnovationsPortal Chemnitz - Berufsfachschule für Altenpflege",
+  "category": "Berufsbildende Schule",
+  "address": "BIP Chemnitz Bernhardstraße 68 09126 Chemnitz",
+  "contact": "0371 5265-550",
+  "latitude": 50.82929034743971,
+  "longitude": 12.946619966780453,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757beca4bc601510f8b9aa"
+  },
+  "name": "Fachschule für Technik der Gemeinnützigen Gesellschaft TUV Rheinland Bildungswerk mbH",
+  "category": "Berufsbildende Schule",
+  "address": "TÜV Bildungswerk gGmbH - FS Technik Otto-Schmerbach-Straße 19 09117 Chemnitz",
+  "contact": "0371 8661725",
+  "latitude": 50.811795275775665,
+  "longitude": 12.848809656189362,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757beca4bc601510f8b9ab"
+  },
+  "name": "Berufsfachschule für Sozialwesen der SBH Südost GmbH",
+  "category": "Berufsbildende Schule",
+  "address": "BFS Sozialwesen SBH Südost GmbH Paul-Gruner-Straße 58 09120 Chemnitz",
+  "contact": "0371 4000510",
+  "latitude": 50.80770300695421,
+  "longitude": 12.908241577471035,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757beca4bc601510f8b9ac"
+  },
+  "name": "Abendoberschule",
+  "category": "Schule des zweiten Bildungsweges",
+  "address": "Abendoberschule Arno-Schreiter-Straße 3 09123 Chemnitz",
+  "contact": "0371 9091022",
+  "latitude": 50.791601893186,
+  "longitude": 12.903395394726186,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757beca4bc601510f8b9ad"
+  },
+  "name": "Abendgymnasium",
+  "category": "Schule des zweiten Bildungsweges",
+  "address": "Abendgymnasium Arno-Schreiter-Straße 3 09123 Chemnitz",
+  "contact": "0371 415248",
+  "latitude": 50.791601893186,
+  "longitude": 12.903395394726186,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757beca4bc601510f8b9ae"
+  },
+  "name": "Medienpädagogisches Zentrum",
+  "category": "Sonstige Einrichtung",
+  "address": "Medienpädagogisches Zentrum Ritterstraße 7 09111 Chemnitz",
+  "contact": "0371 5619050",
+  "latitude": 50.82555649858219,
+  "longitude": 12.927703164001603,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757beca4bc601510f8b9af"
+  },
+  "name": "Schulplanetarium",
+  "category": "Sonstige Einrichtung",
+  "address": "Schulplanetarium Albert-Köhler-Straße 48 09122 Chemnitz",
+  "contact": "0371 9099713",
+  "latitude": 50.79303114663459,
+  "longitude": 12.88894232665042,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757beca4bc601510f8b9b0"
+  },
+  "name": "Internat am Sportgymnasium",
+  "category": "Sonstige Einrichtung",
+  "address": "Sportinternat Reichenhainer Straße 154 09125 Chemnitz",
+  "contact": "0371 4884670",
+  "latitude": 50.80594867181525,
+  "longitude": 12.936745763870954,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757beca4bc601510f8b9b1"
+  },
+  "name": "Heim für körper- und mehrfachbehinderte Kinder und Jugendliche",
+  "category": "Sonstige Einrichtung",
+  "address": "GTB+Heim für Körperbehinderte Heinrich-Schütz-Straße 65 09130 Chemnitz",
+  "contact": "0371 3989-3100",
+  "latitude": 50.83920772743861,
+  "longitude": 12.955913133451643,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757beca4bc601510f8b9b2"
+  },
+  "name": "Montessori-Schule Chemnitz - Freie integrative Schule -Gymnasium-",
+  "category": "Gymnasium",
+  "address": "Montessori-Schule (Gym) Fürstenstraße 147 09130 Chemnitz",
+  "contact": "0371 2804228",
+  "latitude": 50.833811291254484,
+  "longitude": 12.95919592295986,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757beca4bc601510f8b9b3"
+  },
+  "name": "DPFA-Schulen gemeinnützige GmbH -Gymnasium-",
+  "category": "Gymnasium",
+  "address": "DPFA-Regenbogen-Gymnasium Chemnitz Emilienstraße 50 09131 Chemnitz",
+  "contact": "0371 45901100",
+  "latitude": 50.85139274709941,
+  "longitude": 12.939252545827824,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757beca4bc601510f8b9b4"
+  },
+  "name": "gruuna Schule gGmbH (Gymnasium)",
+  "category": "Gymnasium",
+  "address": "gruuna Schule gGmbH (Gymnasium) Saydaer Straße 21 09125 Chemnitz",
+  "contact": "0371 33715680",
+  "latitude": 50.797852160109706,
+  "longitude": 12.9352089883882,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757beca4bc601510f8b9b5"
+  },
+  "name": "Internationales Stefan-Heym-Gymnasium",
+  "category": "Gymnasium",
+  "address": "Internationales Stefan-Heym-Gymnasium Seumestraße 2 09111 Chemnitz",
+  "contact": "0371 66601-20",
+  "latitude": 50.842165612737254,
+  "longitude": 12.918088013663096,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757beca4bc601510f8b9b6"
+  },
+  "name": "Terra Nova Campus, Die Entdeckerschule, Förderzentrum mit dem Förderschwerpunkt körperliche und motorische Entwicklung",
+  "category": "Förderschule",
+  "address": "Terra Nova Campus - Die Entdeckerschule Heinrich-Schütz-Straße 61 09130 Chemnitz",
+  "contact": "0371 3989-3001",
+  "latitude": 50.83943671972351,
+  "longitude": 12.954409907451021,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757beca4bc601510f8b9b7"
+  },
+  "name": "Förderzentrum \"Georg Götz\", Schule mit dem Förderschwerpunkt Hören",
+  "category": "Förderschule",
+  "address": "Förderzentrum \"Georg Götz\",  FSP Hören Richard-Wagner-Straße 76 09120 Chemnitz",
+  "contact": "0371 272090",
+  "latitude": 50.814759389892416,
+  "longitude": 12.899460028391776,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757beca4bc601510f8b9b8"
+  },
+  "name": "Schule mit dem Förderschwerpunkt Sprache  \"Ernst Busch \"",
+  "category": "Förderschule",
+  "address": "Schule FSP Sprache \"Ernst Busch\" Ernst-Wabra-Straße 34 09123 Chemnitz",
+  "contact": "0371 381660",
+  "latitude": 50.78749264322187,
+  "longitude": 12.880359780885888,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757beca4bc601510f8b9b9"
+  },
+  "name": "Friedrich- Fröbel-Schule, Schule mit dem Förderschwerpunkt Lernen",
+  "category": "Förderschule",
+  "address": "F.-Fröbel-Schule Reichsstraße 45 09112 Chemnitz",
+  "contact": "0371 381650",
+  "latitude": 50.83544760808395,
+  "longitude": 12.906850455902491,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757beca4bc601510f8b9ba"
+  },
+  "name": "Förderzentrum mit dem Förderschwerpunkt Lernen  \"Johann Heinrich Pestalozzi \"",
+  "category": "Förderschule",
+  "address": "Förderzentr.\"J.-H.-Pestalozzi\" Ludwig-Kirsch-Straße 29 09130 Chemnitz",
+  "contact": "0371 36777210",
+  "latitude": 50.836434025457066,
+  "longitude": 12.94158712353908,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757beca4bc601510f8b9bb"
+  },
+  "name": "Schule Altchemnitz, Förderzentrum mit dem Förderschwerpunkt Lernen",
+  "category": "Förderschule",
+  "address": "Schule Altchemnitz Schulstraße 2 09125 Chemnitz",
+  "contact": "0371 539010",
+  "latitude": 50.799381331294086,
+  "longitude": 12.91101485246721,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757beca4bc601510f8b9bc"
+  },
+  "name": "Sonderpädagogisches Förderzentrum  \"Johannes Trüper \", Schule mit dem Förderschwerpunkt emotionale und soziale Entwicklung, Haus I",
+  "category": "Förderschule",
+  "address": "J.-Trüper-Schule, Haus 1 Scheffelstraße 18 09120 Chemnitz",
+  "contact": "0371 281570",
+  "latitude": 50.8030042437469,
+  "longitude": 12.8928433256839,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757beca4bc601510f8b9bd"
+  },
+  "name": "Sonderpädagogisches Förderzentrum  \"Johannes Trüper \", Schule mit dem Förderschwerpunkt emotionale und soziale Entwicklung, Haus II",
+  "category": "Förderschule",
+  "address": "J.-Trüper-Schule, Haus 2 Friedrich-Hähnel-Straße 86 09120 Chemnitz",
+  "contact": "0371 229189",
+  "latitude": 50.80449576265739,
+  "longitude": 12.895297700597999,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757beca4bc601510f8b9be"
+  },
+  "name": "Planetenschule - Klinikschule Chemnitz, Haus II",
+  "category": "Förderschule",
+  "address": "Planetenschule -Klinikschule, Haus 2 Flemmingstraße 4 09116 Chemnitz",
+  "contact": "0371 39898454",
+  "latitude": 50.84367767234673,
+  "longitude": 12.883866610489994,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757beca4bc601510f8b9bf"
+  },
+  "name": "Janusz- Korczak-Schule, Schule mit dem Förderschwerpunkt geistige Entwicklung",
+  "category": "Förderschule",
+  "address": "J.-Korczak-Schule, FSP geistige Entwicklung Max-Schäller-Straße 1 09122 Chemnitz",
+  "contact": "0371 225095",
+  "latitude": 50.79743011212349,
+  "longitude": 12.895062824951353,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757beca4bc601510f8b9c0"
+  },
+  "name": "Schule  \"Am Zeisigwald \", Schule mit dem Förderschwerpunkt geistige Entwicklung",
+  "category": "Förderschule",
+  "address": "Schule \"Am Zeisigwald\", FSP geistige Entw. Ernst-Moritz-Arndt-Straße 1a 09130 Chemnitz",
+  "contact": "0371 7008770",
+  "latitude": 50.8316116358909,
+  "longitude": 12.966572816727261,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757beca4bc601510f8b9c1"
+  },
+  "name": "Sonderpädagogisches Förderzentrum \"J. Trüper\" Projekt \"Zwischenstopp\"",
+  "category": "Förderschule",
+  "address": "J.-Trüper-Schule, Projekt Wilhelm-Firl-Straße 4 09122 Chemnitz",
+  "contact": "0371 2821288",
+  "latitude": 50.79223640982365,
+  "longitude": 12.8940954658364,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757beca4bc601510f8b9c2"
+  },
+  "name": "Planetenschule - Klinikschule Chemnitz, Haus I",
+  "category": "Förderschule",
+  "address": "Planetenschule -Klinikschule, Haus 1 Dresdner Straße 178 09131 Chemnitz",
+  "contact": "0371 83441230",
+  "latitude": 50.8512004371741,
+  "longitude": 12.953829333166787,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757beca4bc601510f8b9c3"
+  },
+  "name": "Schule mit dem Förderschwerpunkt Sprache „Ernst Busch“  - Oberschulteil",
+  "category": "Förderschule",
+  "address": "Schule FSP Sprache \"Ernst Busch\" - OS Arno-Schreiter-Straße 3 09123 Chemnitz",
+  "contact": "0371 381660",
+  "latitude": 50.791601893186,
+  "longitude": 12.903395394726186,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757beca4bc601510f8b9c4"
+  },
+  "name": "Schule mit dem Förderschwerpunkt Sprache „Ernst Busch“  - Grundschulteil",
+  "category": "Förderschule",
+  "address": "Schule FSP Sprache \"Ernst Busch\" - GS Ernst-Wabra-Straße 34 09123 Chemnitz",
+  "contact": "0371 381660",
+  "latitude": 50.78749264322187,
+  "longitude": 12.880359780885888,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757beca4bc601510f8b9c5"
+  },
+  "name": "Chemnitzer Schulmodell  (Grund- und Oberschule)",
+  "category": "Oberschule",
+  "address": "Chemnitzer Schulmodell (GS+OS) Stollberger Straße 25 09119 Chemnitz",
+  "contact": "0371 5338810",
+  "latitude": 50.82392703831393,
+  "longitude": 12.91265888046003,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757beca4bc601510f8b9c6"
+  },
+  "name": "Projekt \"WERK-STATT-SCHULE\" (Stadtmission Chemnitz)",
+  "category": "Oberschule",
+  "address": "Projekt \"WERK-STATT-SCHULE\" Scharnhorststraße 2 09130 Chemnitz",
+  "contact": "0371 8205803",
+  "latitude": 50.83197973569745,
+  "longitude": 12.957457759028246,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757beca4bc601510f8b9c7"
+  },
+  "name": "Projekt  \"Produktives Lernen\"",
+  "category": "Oberschule",
+  "address": "Projekt  \"Produktives Lernen\" Ritterstraße 7 09111 Chemnitz",
+  "contact": "0371 56190580",
+  "latitude": 50.82555649858219,
+  "longitude": 12.927703164001603,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757beca4bc601510f8b9c8"
+  },
+  "name": "Alexander-von-Humboldt-Oberschule Chemnitz",
+  "category": "Oberschule",
+  "address": "Alexander-von-Humboldt-OS Chemnitz Arno-Schreiter-Straße 1 09123 Chemnitz",
+  "contact": "0371 26212190",
+  "latitude": 50.791484750276624,
+  "longitude": 12.902724392555049,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757beca4bc601510f8b9c9"
+  },
+  "name": "Marianne-Brandt-Oberschule",
+  "category": "Oberschule",
+  "address": "Marianne-Brandt-OS Vettersstraße 34 9126 Chemnitz",
+  "contact": "0371 33565250",
+  "latitude": 50.81956963258651,
+  "longitude": 12.932342889207348,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757beca4bc601510f8b9ca"
+  },
+  "name": "Oberschule \"Am Hartmannplatz\" Chemnitz",
+  "category": "Oberschule",
+  "address": "OS \"Am Hartmannplatz\" Hartmannstraße 21 09113 Chemnitz",
+  "contact": "0371 3356540",
+  "latitude": 50.837857330246216,
+  "longitude": 12.91373757165702,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757beca4bc601510f8b9cb"
+  },
+  "name": "Evangelisches Schulzentrum Chemnitz (Oberschule)",
+  "category": "Oberschule",
+  "address": "Evangelisches Schulzentrum (OS) Ludwig-Richter-Straße 21 09131 Chemnitz",
+  "contact": "0371 4443380",
+  "latitude": 50.85328806873376,
+  "longitude": 12.949251623217503,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757beca4bc601510f8b9cc"
+  },
+  "name": "Montessori-Schule Chemnitz - Freie integrative Schule -Oberschule-",
+  "category": "Oberschule",
+  "address": "Montessori-Schule (OS) Fürstenstraße 147 09130 Chemnitz",
+  "contact": "0371 2804228",
+  "latitude": 50.833811291254484,
+  "longitude": 12.95919592295986,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757beca4bc601510f8b9cd"
+  },
+  "name": "Waldorfschule Chemnitz (Oberschule)",
+  "category": "Oberschule",
+  "address": "Waldorfschule (OS) Sandstraße 102 09114 Chemnitz",
+  "contact": "0371 334076-0",
+  "latitude": 50.86201867200133,
+  "longitude": 12.898026729560554,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757beca4bc601510f8b9ce"
+  },
+  "name": "DPFA-Schulen gemeinnützige GmbH -Oberschule-",
+  "category": "Oberschule",
+  "address": "DPFA-Regenbogen-Oberschule Chemnitz Emilienstraße 50 09131 Chemnitz",
+  "contact": "0371 45901100",
+  "latitude": 50.85139274709941,
+  "longitude": 12.939252545827824,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757beca4bc601510f8b9cf"
+  },
+  "name": "Friedrich August III. Oberschule",
+  "category": "Oberschule",
+  "address": "Friedrich August III. Oberschule Waldenburger Straße 63 09116 Chemnitz",
+  "contact": "0371 382430",
+  "latitude": 50.83105855859037,
+  "longitude": 12.877488805849918,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757beca4bc601510f8b9d0"
+  },
+  "name": "gruuna Schule gGmbH (Oberschule)",
+  "category": "Oberschule",
+  "address": "gruuna Schule gGmbH (Oberschule) Saydaer Straße 21 09125 Chemnitz",
+  "contact": "0371 33715680",
+  "latitude": 50.797852160109706,
+  "longitude": 12.9352089883882,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757beca4bc601510f8b9d1"
+  },
+  "name": "Dr.-Wilhelm-André-Gymnasium",
+  "category": "Gymnasium",
+  "address": "Dr.-Wilhelm-André-Gymnasium Henriettenstraße 35 09112 Chemnitz",
+  "contact": "0371 382140",
+  "latitude": 50.83543105601474,
+  "longitude": 12.902422246448936,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757c8d61b5fe090d7404fb"
+  },
+  "name": "solaris Förderzentrum für Jugend und Umwelt gGmbH ",
+  "category": "Kindertageseinrichtungen",
+  "address": "Irkutsker Straße 15, Hort Valentina-Tereschkowa-GS, \"Kinderhort Kappelino\" Irkutsker Straße 09119 Chemnitz",
+  "contact": "0176 16855052",
+  "latitude": 50.8127634464818,
+  "longitude": 12.8942128969262,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757c8d61b5fe090d7404fc"
+  },
+  "name": "Privater Träger",
+  "category": "Kindertageseinrichtungen",
+  "address": "Straße der Nationen 98 \"Mäusebande\", Kindertagespflege Straße der Nationen 09111 Chemnitz",
+  "contact": "0157 78786257",
+  "latitude": 50.8437923088854,
+  "longitude": 12.9300420883326,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757c8d61b5fe090d7404fd"
+  },
+  "name": "Stadt Chemnitz",
+  "category": "Kindertageseinrichtungen",
+  "address": "Henriettenstraße 21 \"Kinderhaus Pusteblume\" Henriettenstraße 09112 Chemnitz",
+  "contact": "0371 300571",
+  "latitude": 50.8355914982523,
+  "longitude": 12.9057459213984,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757c8d61b5fe090d7404fe"
+  },
+  "name": "Stadt Chemnitz",
+  "category": "Kindertageseinrichtungen",
+  "address": "Katharinenstraße 1 \"Farbenfroh\" Katharinenstraße 09119 Chemnitz",
+  "contact": "0371 362270",
+  "latitude": 50.8243304360093,
+  "longitude": 12.9097298667156,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757c8d61b5fe090d7404ff"
+  },
+  "name": "ADMEDINO gGmbH",
+  "category": "Kindertageseinrichtungen",
+  "address": "Planitzwiese 29 \"ADMEDINO\" Planitzwiese 09130 Chemnitz",
+  "contact": "0371 6664787",
+  "latitude": 50.8417082004254,
+  "longitude": 12.9530894728976,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757c8d61b5fe090d740500"
+  },
+  "name": "Stadtmission Chemnitz e. V.",
+  "category": "Kindertageseinrichtungen",
+  "address": "Rembrandtstraße 13c \"Regenbogen\" Rembrandtstraße 09111 Chemnitz",
+  "contact": "0371 6004861",
+  "latitude": 50.8277733756842,
+  "longitude": 12.9302096047528,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757c8d61b5fe090d740501"
+  },
+  "name": "Stadt Chemnitz",
+  "category": "Kindertageseinrichtungen",
+  "address": "Wiesenstraße 1 \"Stupsnasen\" Wiesenstraße 09111 Chemnitz",
+  "contact": "0371 6761423",
+  "latitude": 50.8304335098564,
+  "longitude": 12.9248627275799,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757c8d61b5fe090d740502"
+  },
+  "name": "Stadt Chemnitz",
+  "category": "Kindertageseinrichtungen",
+  "address": "Alfred-Neubert-Straße 57, Haus \"Kinderlachen\" Alfred-Neubert-Straße 09123 Chemnitz",
+  "contact": "0371 242534",
+  "latitude": 50.7831985976721,
+  "longitude": 12.8977796665415,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757c8d61b5fe090d740503"
+  },
+  "name": "Stadt Chemnitz",
+  "category": "Kindertageseinrichtungen",
+  "address": "Fritz-Matschke-Straße 23, Hort Obere Luisen-GS \"Luisenhort\" Fritz-Matschke-Straße 09113 Chemnitz",
+  "contact": "0371 3380116",
+  "latitude": 50.8416175260943,
+  "longitude": 12.9027749352388,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757c8d61b5fe090d740504"
+  },
+  "name": "Stadt Chemnitz",
+  "category": "Kindertageseinrichtungen",
+  "address": "Brühl 59, Hort R.-Luxemburg-GS am Brühl Brühl 09111 Chemnitz",
+  "contact": "0371 4445552",
+  "latitude": 50.8434103457776,
+  "longitude": 12.9248947451167,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757c8d61b5fe090d740505"
+  },
+  "name": "Stadt Chemnitz",
+  "category": "Kindertageseinrichtungen",
+  "address": "Stollberger Straße 25 \"Chemnitzer Schulmodell\" Stollberger Straße 09119 Chemnitz",
+  "contact": "0371 3346487",
+  "latitude": 50.823925451318,
+  "longitude": 12.9126388249835,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757c8d61b5fe090d740506"
+  },
+  "name": "Stadt Chemnitz",
+  "category": "Kindertageseinrichtungen",
+  "address": "Altendorfer Straße 25 \"Luisenspatzen\" Altendorfer Straße 09113 Chemnitz",
+  "contact": "0371 3304336",
+  "latitude": 50.8443495293642,
+  "longitude": 12.9027329095151,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757c8d61b5fe090d740507"
+  },
+  "name": "Stadt Chemnitz",
+  "category": "Kindertageseinrichtungen",
+  "address": "Fritz-Reuter-Straße 30 \"mittendrin\" Fritz-Reuter-Straße 09111 Chemnitz",
+  "contact": "0371 6761097",
+  "latitude": 50.825607470532,
+  "longitude": 12.9242276591238,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757c8d61b5fe090d740508"
+  },
+  "name": "Stadt Chemnitz",
+  "category": "Kindertageseinrichtungen",
+  "address": "Küchwaldring 15 \"Zum Schneckenhaus\" Küchwaldring 09113 Chemnitz",
+  "contact": "0371 372313",
+  "latitude": 50.8467555027681,
+  "longitude": 12.9053198238468,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757c8d61b5fe090d740509"
+  },
+  "name": "Privater Träger",
+  "category": "Kindertageseinrichtungen",
+  "address": "Josephinenplatz 8 \"Entdeckerland\", Kindertagespflege Josephinenplatz 09113 Chemnitz",
+  "contact": "0174 5909703",
+  "latitude": 50.849579370555,
+  "longitude": 12.9297116893286,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757c8d61b5fe090d74050a"
+  },
+  "name": "Privater Träger",
+  "category": "Kindertageseinrichtungen",
+  "address": "Weideweg 15 \"Hand in Hand\", Kindertagespflege Weideweg 09116 Chemnitz",
+  "contact": "0152 33590407",
+  "latitude": 50.8306985263175,
+  "longitude": 12.8583800122634,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757c8d61b5fe090d74050b"
+  },
+  "name": "Privater Träger",
+  "category": "Kindertageseinrichtungen",
+  "address": "Konradstraße 11 \"Susi's Zwergenland\", Kindertagespflege Konradstraße 09113 Chemnitz",
+  "contact": "0173 9912177",
+  "latitude": 50.8416805248614,
+  "longitude": 12.9040819382662,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757c8d61b5fe090d74050c"
+  },
+  "name": "Privater Träger",
+  "category": "Kindertageseinrichtungen",
+  "address": "Lützowstraße 60 \"KappelKrabbel\", Kindertagespflege Lützowstraße 09119 Chemnitz",
+  "contact": "0157 81784268",
+  "latitude": 50.8164934302726,
+  "longitude": 12.8956718626753,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757c8d61b5fe090d74050d"
+  },
+  "name": "Privater Träger",
+  "category": "Kindertageseinrichtungen",
+  "address": "Darwinweg 3 \"Zwergenstube\", Kindertagespflege Darwinweg 09247 Chemnitz",
+  "contact": "0162 7873299",
+  "latitude": 50.8578634089382,
+  "longitude": 12.8607840605622,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757c8d61b5fe090d74050e"
+  },
+  "name": "Privater Träger",
+  "category": "Kindertageseinrichtungen",
+  "address": "Uhdestraße 52a \"Dschungelkids\", Kindertagespflege Uhdestraße 09114 Chemnitz",
+  "contact": "0176 32366084",
+  "latitude": 50.884938413956,
+  "longitude": 12.9378394392195,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757c8d61b5fe090d74050f"
+  },
+  "name": "Privater Träger",
+  "category": "Kindertageseinrichtungen",
+  "address": "Erich-Mühsam-Straße 2 \"Lotta & Finn\", Kindertagespflege Erich-Mühsam-Straße 09112 Chemnitz",
+  "contact": "0177 7977868",
+  "latitude": 50.8342783154232,
+  "longitude": 12.8985079245687,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757c8d61b5fe090d740510"
+  },
+  "name": "Privater Träger",
+  "category": "Kindertageseinrichtungen",
+  "address": "Krummer Weg 2 \"Bambino Lounge\", Kindertagespflege Krummer Weg 09116 Chemnitz",
+  "contact": "0162 2692425",
+  "latitude": 50.7987366782961,
+  "longitude": 12.8607638789391,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757c8d61b5fe090d740511"
+  },
+  "name": "Privater Träger",
+  "category": "Kindertageseinrichtungen",
+  "address": "Annaberger Straße 108a \"Mäuseburg\", Kindertagespflege Annaberger Straße 09120 Chemnitz",
+  "contact": "01520 1947114",
+  "latitude": 50.8120092775431,
+  "longitude": 12.9115575628687,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757c8d61b5fe090d740512"
+  },
+  "name": "Privater Träger",
+  "category": "Kindertageseinrichtungen",
+  "address": "Oberfrohnaer Straße 5 \"Villa Schmetterling\", Kindertagespflege Oberfrohnaer Straße 09117 Chemnitz",
+  "contact": "0172 9125837",
+  "latitude": 50.8171276067856,
+  "longitude": 12.8404310759952,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757c8d61b5fe090d740513"
+  },
+  "name": "Privater Träger",
+  "category": "Kindertageseinrichtungen",
+  "address": "Max-Saupe-Straße 23 \"Ebersdorfer Waldgeister\", Kindertagespflege Max-Saupe-Straße 09131 Chemnitz",
+  "contact": "0371 4500653",
+  "latitude": 50.8695159377592,
+  "longitude": 12.9586994995969,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757c8d61b5fe090d740514"
+  },
+  "name": "Privater Träger",
+  "category": "Kindertageseinrichtungen",
+  "address": "Marienberger Straße 14 \"Kleine Möwe\", Kindertagespflege Marienberger Straße 09125 Chemnitz",
+  "contact": "0157 57284142",
+  "latitude": 50.7934545284884,
+  "longitude": 12.9270766486679,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757c8d61b5fe090d740515"
+  },
+  "name": "Privater Träger",
+  "category": "Kindertageseinrichtungen",
+  "address": "Beethovenstraße 58a \"Kleine Spatzen\", Kindertagespflege Beethovenstraße 09130 Chemnitz",
+  "contact": "0176 60507646",
+  "latitude": 50.8381421183061,
+  "longitude": 12.9433144314839,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757c8d61b5fe090d740516"
+  },
+  "name": "Stadt Chemnitz",
+  "category": "Kindertageseinrichtungen",
+  "address": "Augsburger Straße 32, Hort Heinrich-Heine-GS Augsburger Straße 09126 Chemnitz",
+  "contact": "0371 27868644",
+  "latitude": 50.8158424334365,
+  "longitude": 12.9399034720326,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757c8d61b5fe090d740517"
+  },
+  "name": "KINDERVEREINIGUNG Chemnitz e. V.",
+  "category": "Kindertageseinrichtungen",
+  "address": "Straße Usti nad Labem 197 \"FRIDOLIN\" Straße Usti nad Labem 09119 Chemnitz",
+  "contact": "0371 52455487",
+  "latitude": 50.8068085244813,
+  "longitude": 12.8843699240534,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757c8d61b5fe090d740518"
+  },
+  "name": "Privater Träger",
+  "category": "Kindertageseinrichtungen",
+  "address": "Parkstraße 13 \"Zappelkiste-Kleine Menschen ganz groß\", Kindertagespflege Parkstraße 09120 Chemnitz",
+  "contact": "0163 8323511",
+  "latitude": 50.8205584525106,
+  "longitude": 12.909709819865,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757c8d61b5fe090d740519"
+  },
+  "name": "Privater Träger",
+  "category": "Kindertageseinrichtungen",
+  "address": "Clausewitzstraße 6 \"Zwergenland\", Kindertagespflege Clausewitzstraße 09130 Chemnitz",
+  "contact": "0178 3410698",
+  "latitude": 50.8310511815738,
+  "longitude": 12.9625693644843,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757c8d61b5fe090d74051a"
+  },
+  "name": "Privater Träger",
+  "category": "Kindertageseinrichtungen",
+  "address": "Berbisdorfer Straße 151 \"Connys Zwergengarten\", Kindertagespflege Berbisdorfer Straße 09123 Chemnitz",
+  "contact": "0173 1984077",
+  "latitude": 50.761791635871,
+  "longitude": 12.9401380561746,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757c8d61b5fe090d74051b"
+  },
+  "name": "Privater Träger",
+  "category": "Kindertageseinrichtungen",
+  "address": "Brückenstraße 21 \"Villa Marienkäfer\", Kindertagespflege Brückenstraße 09111 Chemnitz",
+  "contact": "0162 6792154",
+  "latitude": 50.8369783971097,
+  "longitude": 12.9193998357456,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757c8d61b5fe090d74051c"
+  },
+  "name": "Stadt Chemnitz",
+  "category": "Kindertageseinrichtungen",
+  "address": "Albert-Köhler-Straße 91, Hort A.-Einstein-GS Albert-Köhler-Straße 09122 Chemnitz",
+  "contact": "0371 227044",
+  "latitude": 50.7917184717951,
+  "longitude": 12.8878830195429,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757c8d61b5fe090d74051d"
+  },
+  "name": "Privater Träger",
+  "category": "Kindertageseinrichtungen",
+  "address": "Arthur-Strobel-Straße 27 \"Die bunten Knöpfchen\", Kindertagespflege Arthur-Strobel-Straße 09127 Chemnitz",
+  "contact": "0152 06551563",
+  "latitude": 50.8261282756165,
+  "longitude": 12.9616573951099,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757c8d61b5fe090d74051e"
+  },
+  "name": "Privater Träger",
+  "category": "Kindertageseinrichtungen",
+  "address": "Nevoigtstraße 5 \"Fichtenwichtel\", Kindertagespflege Nevoigtstraße 09117 Chemnitz",
+  "contact": "0171 7971903",
+  "latitude": 50.8163106179718,
+  "longitude": 12.839152078457,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757c8d61b5fe090d74051f"
+  },
+  "name": "Privater Träger",
+  "category": "Kindertageseinrichtungen",
+  "address": "Straße Usti nad Labem 211 \"Susi's kleine Bienchen\", Kindertagespflege Straße Usti nad Labem 09119 Chemnitz",
+  "contact": "0152 54106625",
+  "latitude": 50.8061885306819,
+  "longitude": 12.8840199234969,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757c8d61b5fe090d740520"
+  },
+  "name": "Stadt Chemnitz",
+  "category": "Kindertageseinrichtungen",
+  "address": "Max-Müller-Straße 11 Max-Müller-Straße 09123 Chemnitz",
+  "contact": "0371 49529900",
+  "latitude": 50.7893195521866,
+  "longitude": 12.8982606525492,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757c8d61b5fe090d740521"
+  },
+  "name": "Privater Träger",
+  "category": "Kindertageseinrichtungen",
+  "address": "Carl-von-Ossietzky-Straße 248 \"Schneeflöckchen\", Kindertagespflege Carl-von-Ossietzky-Straß 09126 Chemnitz",
+  "contact": "0174 9813765",
+  "latitude": 50.8240982955279,
+  "longitude": 12.970579329706,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757c8d61b5fe090d740522"
+  },
+  "name": "Privater Träger",
+  "category": "Kindertageseinrichtungen",
+  "address": "Straße der Nationen 91 \"Mäusestübchen\", Kindertagespflege Straße der Nationen 09113 Chemnitz",
+  "contact": "0152 09421404",
+  "latitude": 50.8486333511858,
+  "longitude": 12.932002687133,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757c8d61b5fe090d740523"
+  },
+  "name": "Stadt Chemnitz",
+  "category": "Kindertageseinrichtungen",
+  "address": "Alfred-Neubert-Straße 55, Hort Charles-Darwin-GS Alfred-Neubert-Straße 09123 Chemnitz",
+  "contact": "0371 4958400",
+  "latitude": 50.7832985931103,
+  "longitude": 12.8985796656068,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757c8d61b5fe090d740524"
+  },
+  "name": "Privater Träger",
+  "category": "Kindertageseinrichtungen",
+  "address": "Lutherstraße 18 \"mezzopiano\", Kindertagespflege mit musikalischem Profil Lutherstraße 09126 Chemnitz",
+  "contact": "0163 7255026",
+  "latitude": 50.8253783735082,
+  "longitude": 12.9344095786926,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757c8d61b5fe090d740525"
+  },
+  "name": "Privater Träger",
+  "category": "Kindertageseinrichtungen",
+  "address": "Max-Saupe-Straße 24 \"Ebersdorfer Flitzpiepen\", Kindertagespflege Max-Saupe-Straße 09131 Chemnitz",
+  "contact": "0172 3726265",
+  "latitude": 50.8696979266425,
+  "longitude": 12.9594794918582,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757c8d61b5fe090d740526"
+  },
+  "name": "Privater Träger",
+  "category": "Kindertageseinrichtungen",
+  "address": "Solbrigstraße 18 \"Land der kleinen Hände\", Kindertagespflege Solbrigstraße 09120 Chemnitz",
+  "contact": "0171 9328599",
+  "latitude": 50.8126984855631,
+  "longitude": 12.9140797218823,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757c8d61b5fe090d740527"
+  },
+  "name": "Privater Träger",
+  "category": "Kindertageseinrichtungen",
+  "address": "Uferstraße 32, Kindertagespflege Uferstraße 09126 Chemnitz",
+  "contact": "0172 7201262",
+  "latitude": 50.8304083520993,
+  "longitude": 12.9364895643838,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757c8d61b5fe090d740528"
+  },
+  "name": "Privater Träger",
+  "category": "Kindertageseinrichtungen",
+  "address": "Mansfelder Straße 23 \"Naturkinder\", Kindertagespflege Mansfelder Straße 09126 Chemnitz",
+  "contact": "0176 41843669",
+  "latitude": 50.8134984385082,
+  "longitude": 12.9552793912523,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757c8d61b5fe090d740529"
+  },
+  "name": "Privater Träger",
+  "category": "Kindertageseinrichtungen",
+  "address": "Stelzendorfer Straße 267 \"Froschland\", Kindertagespflege Stelzendorfer Straße 09116 Chemnitz",
+  "contact": "0172 6974871",
+  "latitude": 50.7986676827527,
+  "longitude": 12.8628198819766,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757c8d61b5fe090d74052a"
+  },
+  "name": "Privater Träger",
+  "category": "Kindertageseinrichtungen",
+  "address": "Margaretenstraße 34 \"Teddybande\", Kindertagespflege Margaretenstraße 09131 Chemnitz",
+  "contact": "0151 20246803",
+  "latitude": 50.8518083329686,
+  "longitude": 12.9438896943838,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757c8d61b5fe090d74052b"
+  },
+  "name": "Privater Träger",
+  "category": "Kindertageseinrichtungen",
+  "address": "Thomas-Mann-Platz 5 \"Sallys Kindertagespflege\", Kindertagespflege Thomas-Mann-Platz 09130 Chemnitz",
+  "contact": "0173 1671603",
+  "latitude": 50.8448592314005,
+  "longitude": 12.9384926334703,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757c8d61b5fe090d74052c"
+  },
+  "name": "Stadt Chemnitz",
+  "category": "Kindertageseinrichtungen",
+  "address": "Schulberg 1 Schulberg 09114 Chemnitz",
+  "contact": "0371 45058960",
+  "latitude": 50.8722472362407,
+  "longitude": 12.9105927663039,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757c8d61b5fe090d74052d"
+  },
+  "name": "Stadt Chemnitz",
+  "category": "Kindertageseinrichtungen",
+  "address": "Rembrandtstraße 13 Rembrandtstraße 09111 Chemnitz",
+  "contact": "0371 69579296",
+  "latitude": 50.8273263693266,
+  "longitude": 12.9301796050577,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757c8d61b5fe090d74052e"
+  },
+  "name": "SSA - Sächsische Sozialakademie gGmbH",
+  "category": "Kindertageseinrichtungen",
+  "address": "Straße Usti nad Labem 279, Hort Dr.-Salvador-Allende-GS, \"Kinderhaus Bienenkorb\" Straße Usti nad Labem 09119 Chemnitz",
+  "contact": "0371 228118",
+  "latitude": 50.8052585273079,
+  "longitude": 12.8850999155334,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757c8d61b5fe090d74052f"
+  },
+  "name": "Studentenwerk Chemnitz Zwickau",
+  "category": "Kindertageseinrichtungen",
+  "address": "Reichenhainer Straße 33b \"Campulino\" Reichenhainer Straße 09126 Chemnitz",
+  "contact": "0371 5628150",
+  "latitude": 50.8185574413363,
+  "longitude": 12.9304045828358,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757c8d61b5fe090d740530"
+  },
+  "name": "Stadt Chemnitz",
+  "category": "Kindertageseinrichtungen",
+  "address": "Michaelstraße 58 \"Wiesenwichtel\" Michaelstraße 09116 Chemnitz",
+  "contact": "0371 40464476",
+  "latitude": 50.8295044173278,
+  "longitude": 12.8928951973978,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757c8d61b5fe090d740531"
+  },
+  "name": "Caritasverband für Chemnitz und Umgebung e. V.",
+  "category": "Kindertageseinrichtungen",
+  "address": "Sonnenstraße 42, Caritaskindergarten \"Lebensbaum\" Sonnenstraße 09130 Chemnitz",
+  "contact": "0371 35574900",
+  "latitude": 50.8335160541276,
+  "longitude": 12.9351196476934,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757c8d61b5fe090d740532"
+  },
+  "name": "gruuna Schule gGmbH",
+  "category": "Kindertageseinrichtungen",
+  "address": "Saydaer Straße 21, Hort der gruuna Schule Saydaer Straße 09125 Chemnitz",
+  "contact": "0371 33715680",
+  "latitude": 50.797758529174,
+  "longitude": 12.9344395493173,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757c8d61b5fe090d740533"
+  },
+  "name": "DRK Gemeinnützige Krankenhaus GmbH Sachsen",
+  "category": "Kindertageseinrichtungen",
+  "address": "Riedbachweg 2 \"Herbies Rabenburg\" Riedbachweg 09117 Chemnitz",
+  "contact": "0371 80813915",
+  "latitude": 50.8233985554808,
+  "longitude": 12.8248500470434,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757c8d61b5fe090d740534"
+  },
+  "name": "Stadtmission Chemnitz e. V.",
+  "category": "Kindertageseinrichtungen",
+  "address": "Hohensteiner Straße 14 \"Evangelischer Kindergarten am Wiesenbach\" Hohensteiner Straße 09117 Chemnitz",
+  "contact": "0371 26226373",
+  "latitude": 50.8124661395574,
+  "longitude": 12.8253548259057,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757c8d61b5fe090d740535"
+  },
+  "name": "Stadt Chemnitz",
+  "category": "Kindertageseinrichtungen",
+  "address": "Fürstenstraße 263/265 Fürstenstraße 09130 Chemnitz",
+  "contact": "0371 85796675",
+  "latitude": 50.8332981499053,
+  "longitude": 12.9654993346016,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757c8d61b5fe090d740536"
+  },
+  "name": "SFZ Förderzentrum gGmbH",
+  "category": "Kindertageseinrichtungen",
+  "address": "Zinzendorfstraße 31 \"Kaßberg-Spechte\" Zinzendorfstraße 09116 Chemnitz",
+  "contact": "0371 33560990",
+  "latitude": 50.8305585633887,
+  "longitude": 12.8869700626166,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757c8d61b5fe090d740537"
+  },
+  "name": "Kinder-, Jugend- u. Familienhilfe e. V. Chemnitz",
+  "category": "Kindertageseinrichtungen",
+  "address": "Forststraße 26-30 Naturkinderhaus \"Esche\" Forststraße 09130 Chemnitz",
+  "contact": "0371 49502390",
+  "latitude": 50.8432232907575,
+  "longitude": 12.9458175291908,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757c8d61b5fe090d740538"
+  },
+  "name": "Privater Träger",
+  "category": "Kindertageseinrichtungen",
+  "address": "Dorfstraße 10 \"Tagesmutter Bille\", Kindertagespflege Dorfstraße 09114 Chemnitz",
+  "contact": "0173 4538057",
+  "latitude": 50.8715082428779,
+  "longitude": 12.9112297688237,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757c8d61b5fe090d740539"
+  },
+  "name": "Stadt Chemnitz",
+  "category": "Kindertageseinrichtungen",
+  "address": "Am Heim 15a Am Heim 09116 Chemnitz",
+  "contact": "0371 66618337",
+  "latitude": 50.8292485744687,
+  "longitude": 12.8791500634206,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757c8d61b5fe090d74053a"
+  },
+  "name": "Privater Träger",
+  "category": "Kindertageseinrichtungen",
+  "address": "Blücherstraße 10 \"Regenbogen\", Kindertagespflege Blücherstraße 09126 Chemnitz",
+  "contact": "0162 3236558",
+  "latitude": 50.8240683779757,
+  "longitude": 12.9368895553286,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757c8d61b5fe090d74053b"
+  },
+  "name": "Stadt Chemnitz",
+  "category": "Kindertageseinrichtungen",
+  "address": "Brauhausstraße 16, Hort der Kooperationsschule Chemnitz Wittgensdorfer Straße 09114 Chemnitz",
+  "contact": "0371 278688751",
+  "latitude": 50.8622442868067,
+  "longitude": 12.8864052872766,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757c8d61b5fe090d74053c"
+  },
+  "name": "Stadt Chemnitz",
+  "category": "Kindertageseinrichtungen",
+  "address": "Schloßstraße 16 \"Bildungsinsel\" Schloßstraße 09111 Chemnitz",
+  "contact": "0371 24359427",
+  "latitude": 50.839722712387,
+  "longitude": 12.9175795209652,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757c8d61b5fe090d74053d"
+  },
+  "name": "Kinder-, Jugend- u. Familienhilfe e. V. Chemnitz",
+  "category": "Kindertageseinrichtungen",
+  "address": "Bernsdorfer Straße 120 Bernsdorfer Straße 09126 Chemnitz",
+  "contact": "0371 49502306",
+  "latitude": 50.8162983336974,
+  "longitude": 12.939885060951,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757c8d61b5fe090d74053e"
+  },
+  "name": "Stadt Chemnitz",
+  "category": "Kindertageseinrichtungen",
+  "address": "Jakobstraße 20, Hort der Annen-GS Jakobstraße 09130 Chemnitz",
+  "contact": "0371 267585250",
+  "latitude": 50.8322962549284,
+  "longitude": 12.9366294826164,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757c8d61b5fe090d74053f"
+  },
+  "name": "Stadt Chemnitz",
+  "category": "Kindertageseinrichtungen",
+  "address": "Weststraße 19, Hort GS-Weststraße Weststraße 09112 Chemnitz",
+  "contact": "0371 267469250",
+  "latitude": 50.8326224759368,
+  "longitude": 12.9073581814611,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757c8d61b5fe090d740540"
+  },
+  "name": "Privater Träger",
+  "category": "Kindertageseinrichtungen",
+  "address": "Clausewitzstraße 6 \"Abenteuerland\", Kindertagespflege Clausewitzstraße 09130 Chemnitz",
+  "contact": "0175 6431895",
+  "latitude": 50.8310511815738,
+  "longitude": 12.9625693644843,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757c8d61b5fe090d740541"
+  },
+  "name": "Arbeiterwohlfahrt Soziale Dienste Chemnitz und Umg",
+  "category": "Kindertageseinrichtungen",
+  "address": "Rödelwaldstraße 20a \"Sonnenschein\" Rödelwaldstraße 09123 Chemnitz",
+  "contact": "0371 2607096",
+  "latitude": 50.7586316021293,
+  "longitude": 12.9061705064609,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757c8d61b5fe090d740542"
+  },
+  "name": "Berliner Institut für Kleinkindpädagogik und famil",
+  "category": "Kindertageseinrichtungen",
+  "address": "Fritz-Fritzsche-Straße 57 \"Kneipp Kita Villa Tausendfuß\" Fritz-Fritzsche-Straße 09123 Chemnitz",
+  "contact": "0371 2600123",
+  "latitude": 50.7865876131216,
+  "longitude": 12.8884537007862,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757c8d61b5fe090d740543"
+  },
+  "name": "Berliner Institut für Kleinkindpädagogik und famil",
+  "category": "Kindertageseinrichtungen",
+  "address": "Pappelstraße 14 \"Entdeckerland\" Pappelstraße 09126 Chemnitz",
+  "contact": "0371 55006",
+  "latitude": 50.813862442097,
+  "longitude": 12.9512334230155,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757c8d61b5fe090d740544"
+  },
+  "name": "Berliner Institut für Kleinkindpädagogik und famil",
+  "category": "Kindertageseinrichtungen",
+  "address": "Ludwigstraße 12 \"Spielhaus\" Ludwigstraße 09113 Chemnitz",
+  "contact": "0371 3302349",
+  "latitude": 50.8426035256135,
+  "longitude": 12.9045859332615,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757c8d61b5fe090d740545"
+  },
+  "name": "Stadt Chemnitz",
+  "category": "Kindertageseinrichtungen",
+  "address": "Kaufmannstraße 12 \"Villa Wackelzahn\" Kaufmannstraße 09117 Chemnitz",
+  "contact": "0371 853407",
+  "latitude": 50.8201075898278,
+  "longitude": 12.8441210548507,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757c8d61b5fe090d740546"
+  },
+  "name": "Stadt Chemnitz",
+  "category": "Kindertageseinrichtungen",
+  "address": "Harthweg 2 \"Sonnenhaus\" Harthweg 09116 Chemnitz",
+  "contact": "0371 300903",
+  "latitude": 50.8307075779171,
+  "longitude": 12.8849350776752,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757c8d61b5fe090d740547"
+  },
+  "name": "Stadt Chemnitz",
+  "category": "Kindertageseinrichtungen",
+  "address": "Heinrich-Beck-Straße 2, Hort Gebrüder-Grimm-GS Heinrich-Beck-Straße 09112 Chemnitz",
+  "contact": "0371 304172",
+  "latitude": 50.8292534516106,
+  "longitude": 12.9080298919999,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757c8d61b5fe090d740548"
+  },
+  "name": "Stadt Chemnitz",
+  "category": "Kindertageseinrichtungen",
+  "address": "Hoffmannstraße 35, Hort Pablo-Neruda-GS Hoffmannstraße 09112 Chemnitz",
+  "contact": "0371 35509735",
+  "latitude": 50.8285774939341,
+  "longitude": 12.8967839847293,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757c8d61b5fe090d740549"
+  },
+  "name": "Stadt Chemnitz",
+  "category": "Kindertageseinrichtungen",
+  "address": "Reichsstraße 45, Hort Lernförder-GS \"F.-Fröbel\" Reichsstraße 09112 Chemnitz",
+  "contact": "0371 3816517",
+  "latitude": 50.8354464952715,
+  "longitude": 12.9068299142832,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757c8d61b5fe090d74054a"
+  },
+  "name": "Stadt Chemnitz",
+  "category": "Kindertageseinrichtungen",
+  "address": "Trützschlerstraße 10, Hort GS-Rabenstein Trützschlerstraße 09117 Chemnitz",
+  "contact": "0371 8080584",
+  "latitude": 50.8272825363091,
+  "longitude": 12.8342840270367,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757c8d61b5fe090d74054b"
+  },
+  "name": "Montessori-Verein Chemnitz e. V.",
+  "category": "Kindertageseinrichtungen",
+  "address": "Platnerstraße 10 \"Montessori-Kinderhaus\" Platnerstraße 09119 Chemnitz",
+  "contact": "0371 900759",
+  "latitude": 50.8181474181538,
+  "longitude": 12.8936738477995,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757c8d61b5fe090d74054c"
+  },
+  "name": "Arbeiterwohlfahrt Soziale Dienste Chemnitz und Umg",
+  "category": "Kindertageseinrichtungen",
+  "address": "Lichtenauer Straße 45, Hort GS-Ebersdorf Lichtenauer Straße 09131 Chemnitz",
+  "contact": "0371 414051",
+  "latitude": 50.8764529150207,
+  "longitude": 12.9706224663037,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757c8d61b5fe090d74054d"
+  },
+  "name": "Arbeiterwohlfahrt Soziale Dienste Chemnitz und Umg",
+  "category": "Kindertageseinrichtungen",
+  "address": "Herweghstraße 7 \"Tausendfüßler\" Herweghstraße 09131 Chemnitz",
+  "contact": "0371 411778",
+  "latitude": 50.8672660455962,
+  "longitude": 12.9587875326053,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757c8d61b5fe090d74054e"
+  },
+  "name": "Stadt Chemnitz",
+  "category": "Kindertageseinrichtungen",
+  "address": "Kaufmannstraße 9, Hort GS-Siegmar Kaufmannstraße 09117 Chemnitz",
+  "contact": "0371 8420416",
+  "latitude": 50.8196295935183,
+  "longitude": 12.8443260610462,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757c8d61b5fe090d74054f"
+  },
+  "name": "Stadt Chemnitz",
+  "category": "Kindertageseinrichtungen",
+  "address": "Heinrich-Bretschneider-Straße 2, Hort GS-Reichenbrand \"Hort Pfiffikus\" Heinrich-Bretschneider-S 09117 Chemnitz",
+  "contact": "0371 851353",
+  "latitude": 50.8132436390972,
+  "longitude": 12.8263879881792,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757c8d61b5fe090d740550"
+  },
+  "name": "Stadt Chemnitz",
+  "category": "Kindertageseinrichtungen",
+  "address": "Walter-Ranft-Straße 72 \"Im Hutholz\" Walter-Ranft-Straße 09123 Chemnitz",
+  "contact": "0371 26749888",
+  "latitude": 50.7822416360322,
+  "longitude": 12.8742357063145,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757c8d61b5fe090d740551"
+  },
+  "name": "F+U Sachsen gGmbH",
+  "category": "Kindertageseinrichtungen",
+  "address": "Guerickestraße 38 \"Schönauer Weltentdecker\", Hort GS-Schönau Guerickestraße 09116 Chemnitz",
+  "contact": "0371 8448840",
+  "latitude": 50.8229815611671,
+  "longitude": 12.8733550044903,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757c8d61b5fe090d740552"
+  },
+  "name": "Stadt Chemnitz",
+  "category": "Kindertageseinrichtungen",
+  "address": "Rudolf-Krahl-Straße 10 \"Waldhäuschen\" Rudolf-Krahl-Straße 09116 Chemnitz",
+  "contact": "0371 300637",
+  "latitude": 50.8353665072314,
+  "longitude": 12.8791210684791,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757c8d61b5fe090d740553"
+  },
+  "name": "Stadt Chemnitz",
+  "category": "Kindertageseinrichtungen",
+  "address": "Michaelstraße 58 \"WELT-Entdecker\" Michaelstraße 09116 Chemnitz",
+  "contact": "0371 302064",
+  "latitude": 50.8295044173278,
+  "longitude": 12.8928951973978,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757c8d61b5fe090d740554"
+  },
+  "name": "Stadt Chemnitz",
+  "category": "Kindertageseinrichtungen",
+  "address": "Weststraße 11 \"Kaßberg-Zwerge\" Weststraße 09112 Chemnitz",
+  "contact": "0371 302874",
+  "latitude": 50.833065471312,
+  "longitude": 12.9098508849185,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757c8d61b5fe090d740555"
+  },
+  "name": "Stadt Chemnitz",
+  "category": "Kindertageseinrichtungen",
+  "address": "Albert-Schweitzer-Straße 71 \"Kleeblatt\" Albert-Schweitzer-Straße 09116 Chemnitz",
+  "contact": "0371 302572",
+  "latitude": 50.8369995202307,
+  "longitude": 12.8814930831285,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757c8d61b5fe090d740556"
+  },
+  "name": "Stadt Chemnitz",
+  "category": "Kindertageseinrichtungen",
+  "address": "Nevoigtstraße 42 \"Groß & Klein\" Nevoigtstraße 09117 Chemnitz",
+  "contact": "0371 851601",
+  "latitude": 50.8169216044559,
+  "longitude": 12.8300950207674,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757c8d61b5fe090d740557"
+  },
+  "name": "KINDERVEREINIGUNG Chemnitz e. V.",
+  "category": "Kindertageseinrichtungen",
+  "address": "Hohe Straße 6b \"Sonnenschein\" Hohe Straße 09112 Chemnitz",
+  "contact": "0371 304769",
+  "latitude": 50.8294604627065,
+  "longitude": 12.9131398490916,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757c8d61b5fe090d740558"
+  },
+  "name": "solaris Förderzentrum für Jugend und Umwelt gGmbH ",
+  "category": "Kindertageseinrichtungen",
+  "address": "Irkutsker Straße 15 \"Kinderhaus Kappelino\", Kinder- und Familienzentrum (KiFaZ) Irkutsker Straße 09119 Chemnitz",
+  "contact": "0371 3685880",
+  "latitude": 50.8127634464818,
+  "longitude": 12.8942128969262,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757c8d61b5fe090d740559"
+  },
+  "name": "Ev.-Luth. Kirchgemeinde St. Jakobi - Kreuz",
+  "category": "Kindertageseinrichtungen",
+  "address": "Henriettenstraße 10 \"Spatzennest\" Henriettenstraße 09112 Chemnitz",
+  "contact": "0371 302585",
+  "latitude": 50.8363604879597,
+  "longitude": 12.9088529004361,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757c8d61b5fe090d74055a"
+  },
+  "name": "Ev.-Luth. Kirchgemeinde St. Matthäus",
+  "category": "Kindertageseinrichtungen",
+  "address": "Zinzendorfstraße 14 Zinzendorfstraße 09116 Chemnitz",
+  "contact": "0371 302856",
+  "latitude": 50.8324065691673,
+  "longitude": 12.8852420899031,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757c8d61b5fe090d74055b"
+  },
+  "name": "KINDERVEREINIGUNG Chemnitz e. V.",
+  "category": "Kindertageseinrichtungen",
+  "address": "Straße Usti nad Labem 119 \"Glückskäfer\", Kinder- und Familienzentrum (KiFaZ) Straße Usti nad Labem 09119 Chemnitz",
+  "contact": "0371 227148",
+  "latitude": 50.807792506799,
+  "longitude": 12.8872699180144,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757c8d61b5fe090d74055c"
+  },
+  "name": "Stadt Chemnitz",
+  "category": "Kindertageseinrichtungen",
+  "address": "Comeniusstraße 1, Hort J.-A.-Comenius-GS Comeniusstraße 09120 Chemnitz",
+  "contact": "0371 4959577",
+  "latitude": 50.8107174982543,
+  "longitude": 12.9141337190051,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757c8d61b5fe090d74055d"
+  },
+  "name": "Stadt Chemnitz",
+  "category": "Kindertageseinrichtungen",
+  "address": "Schulstraße 2, Hort GS Altchemnitz - Förderschulzentrum mit dem Förderschwerpunkt Lernen Philippstraße 09130 Chemnitz",
+  "contact": "0371 49529733",
+  "latitude": 50.8411890184918,
+  "longitude": 12.9403549762768,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757c8d61b5fe090d74055e"
+  },
+  "name": "Kinder-, Jugend- u. Familienhilfe e. V. Chemnitz",
+  "category": "Kindertageseinrichtungen",
+  "address": "Carl-von-Ossietzky-Straße 171, Hort GS-Gablenz Carl-von-Ossietzky-Straß 09127 Chemnitz",
+  "contact": "0371 7500816",
+  "latitude": 50.8226683308088,
+  "longitude": 12.9645143787249,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757c8d61b5fe090d74055f"
+  },
+  "name": "Volkssolidarität Stadtverband Chemnitz e. V.",
+  "category": "Kindertageseinrichtungen",
+  "address": "Ernst-Enge-Straße 4 \"Montessori-Kinderhaus\" Ernst-Enge-Straße 09127 Chemnitz",
+  "contact": "0371 71105",
+  "latitude": 50.8280972834084,
+  "longitude": 12.9569334169489,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757c8d61b5fe090d740560"
+  },
+  "name": "Kinder-, Jugend- u. Familienhilfe e. V. Chemnitz",
+  "category": "Kindertageseinrichtungen",
+  "address": "Straße Usti nad Labem 49 \"Erstes Chemnitzer Kindergartenmodell\" Straße Usti nad Labem 09119 Chemnitz",
+  "contact": "0371 49502345",
+  "latitude": 50.8105744615268,
+  "longitude": 12.8907149047692,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757c8d61b5fe090d740561"
+  },
+  "name": "Kinder-, Jugend- u. Familienhilfe e. V. Chemnitz",
+  "category": "Kindertageseinrichtungen",
+  "address": "Flemmingstraße 1a \"Flemmi\" Flemmingstraße 09116 Chemnitz",
+  "contact": "0371 49502360",
+  "latitude": 50.8436685234401,
+  "longitude": 12.8879410186921,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757c8d61b5fe090d740562"
+  },
+  "name": "Kinder-, Jugend- u. Familienhilfe e. V. Chemnitz",
+  "category": "Kindertageseinrichtungen",
+  "address": "Kieselhausenstraße 6 \"Rabennest\" Kieselhausenstraße 09117 Chemnitz",
+  "contact": "0371 49502350",
+  "latitude": 50.8308815156269,
+  "longitude": 12.8381690158075,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757c8d61b5fe090d740563"
+  },
+  "name": "Volkssolidarität Stadtverband Chemnitz e. V.",
+  "category": "Kindertageseinrichtungen",
+  "address": "Küchwaldring 22 \"Glückskäfer\" Küchwaldring 09113 Chemnitz",
+  "contact": "0371 3304877",
+  "latitude": 50.8483354563922,
+  "longitude": 12.9126217491352,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757c8d61b5fe090d740564"
+  },
+  "name": "Kinder-, Jugend- u. Familienhilfe e. V. Chemnitz",
+  "category": "Kindertageseinrichtungen",
+  "address": "Straße Usti nad Labem 47 \"Abenteuerland\" Straße Usti nad Labem 09119 Chemnitz",
+  "contact": "0371 49502340",
+  "latitude": 50.8103184621049,
+  "longitude": 12.891000909493,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757c8d61b5fe090d740565"
+  },
+  "name": "Kinder-, Jugend- u. Familienhilfe e. V. Chemnitz",
+  "category": "Kindertageseinrichtungen",
+  "address": "Yorckstraße 48 \"Zeisigwaldfüchse\", Kinder- und Familienzentrum (KiFaZ) Yorckstraße 09130 Chemnitz",
+  "contact": "0371 49502310",
+  "latitude": 50.8364542183149,
+  "longitude": 12.9572124587945,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757c8d61b5fe090d740566"
+  },
+  "name": "Volkssolidarität Stadtverband Chemnitz e. V.",
+  "category": "Kindertageseinrichtungen",
+  "address": "Sebastian-Bach-Straße 21 \"Sonnenbergstrolche\" Sebastian-Bach-Straße 09130 Chemnitz",
+  "contact": "0371 4011600",
+  "latitude": 50.8392492157698,
+  "longitude": 12.9428865453392,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757c8d61b5fe090d740567"
+  },
+  "name": "Volkssolidarität Stadtverband Chemnitz e. V.",
+  "category": "Kindertageseinrichtungen",
+  "address": "Max-Türpe-Straße 40/42 \"Montessori-Kinderhaus Pfiffikus\" Max-Türpe-Straße 09122 Chemnitz",
+  "contact": "0371 229148",
+  "latitude": 50.7910655940019,
+  "longitude": 12.8822347297802,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757c8d61b5fe090d740568"
+  },
+  "name": "Christliches Jugenddorfwerk Deutschlands e. V.",
+  "category": "Kindertageseinrichtungen",
+  "address": "Ludwig-Richter-Straße 19, Hort L.-Richter-GS Ludwig-Richter-Straße 09131 Chemnitz",
+  "contact": "0371 411265",
+  "latitude": 50.8527243563312,
+  "longitude": 12.9488557548403,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757c8d61b5fe090d740569"
+  },
+  "name": "Stadt Chemnitz",
+  "category": "Kindertageseinrichtungen",
+  "address": "Ernst-Moritz-Arndt-Straße 4, Hort A.-S.-Makarenko-GS Ernst-Moritz-Arndt-Straß 09130 Chemnitz",
+  "contact": "0371 70089923",
+  "latitude": 50.8319901656411,
+  "longitude": 12.9628973613479,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757c8d61b5fe090d74056a"
+  },
+  "name": "Stadt Chemnitz",
+  "category": "Kindertageseinrichtungen",
+  "address": "Hilbersdorfer Straße 21 \"Pfiffikus\", Kinder- und Familienzentrum (KiFaZ) Hilbersdorfer Straße 09131 Chemnitz",
+  "contact": "0371 412493",
+  "latitude": 50.8502983081868,
+  "longitude": 12.9381246561189,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757c8d61b5fe090d74056b"
+  },
+  "name": "Ev.-Luth. Christuskirchgemeinde Chemnitz",
+  "category": "Kindertageseinrichtungen",
+  "address": "Kirchwinkel 4a Kirchwinkel 09127 Chemnitz",
+  "contact": "0371 77419818",
+  "latitude": 50.812919313987,
+  "longitude": 12.9892670190529,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757c8d61b5fe090d74056c"
+  },
+  "name": "Stadt Chemnitz",
+  "category": "Kindertageseinrichtungen",
+  "address": "Reinhardtstraße 6, Hort G.-E.-Lessing-GS Reinhardtstraße 09130 Chemnitz",
+  "contact": "0371 40067889",
+  "latitude": 50.8412612210747,
+  "longitude": 12.9397505938824,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757c8d61b5fe090d74056d"
+  },
+  "name": "Stadt Chemnitz",
+  "category": "Kindertageseinrichtungen",
+  "address": "Neue Straße 2 \"Lupinio\" Neue Straße 09117 Chemnitz",
+  "contact": "0371 851269",
+  "latitude": 50.8105336327711,
+  "longitude": 12.8403210240461,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757c8d61b5fe090d74056e"
+  },
+  "name": "Waldorfkindergartenverein Chemnitz e. V.",
+  "category": "Kindertageseinrichtungen",
+  "address": "Sandstraße 102 \"Morgensonne\" Sandstraße 09114 Chemnitz",
+  "contact": "0371 33407652",
+  "latitude": 50.8620003703332,
+  "longitude": 12.8979878201941,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757c8d61b5fe090d74056f"
+  },
+  "name": "Sportjugend Chemnitz im SSBC e. V.",
+  "category": "Kindertageseinrichtungen",
+  "address": "Wilhelm-Firl-Straße 2 \"Sportmäuse\" Wilhelm-Firl-Straße 09122 Chemnitz",
+  "contact": "0371 224866",
+  "latitude": 50.7921375495913,
+  "longitude": 12.893707693712,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757c8d61b5fe090d740570"
+  },
+  "name": "Waldorfkindergartenverein Chemnitz e. V.",
+  "category": "Kindertageseinrichtungen",
+  "address": "Katharinenstraße 3 Katharinenstraße 09119 Chemnitz",
+  "contact": "0371 33407680",
+  "latitude": 50.8237124441453,
+  "longitude": 12.9097198564601,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757c8d61b5fe090d740571"
+  },
+  "name": "Stadt Chemnitz",
+  "category": "Kindertageseinrichtungen",
+  "address": "Tschaikowskistraße 9 \"Bunte Gärten\", Kinder- und Familienzentrum (KiFaZ) Tschaikowskistraße 09130 Chemnitz",
+  "contact": "0371 4012922",
+  "latitude": 50.8318623508669,
+  "longitude": 12.9371445511455,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757c8d61b5fe090d740572"
+  },
+  "name": "Stadt Chemnitz",
+  "category": "Kindertageseinrichtungen",
+  "address": "Pestalozzistraße 33 Pestalozzistraße 09130 Chemnitz",
+  "contact": "0371 4012429",
+  "latitude": 50.8347732700064,
+  "longitude": 12.9425375240301,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757c8d61b5fe090d740573"
+  },
+  "name": "Stadt Chemnitz",
+  "category": "Kindertageseinrichtungen",
+  "address": "Paul-Gerhardt-Straße 44, Hort Lernförder-GS \"J.-H.-Pestalozzi\" Paul-Gerhardt-Straße 09130 Chemnitz",
+  "contact": "0371 4014892",
+  "latitude": 50.8376382199454,
+  "longitude": 12.9454765018616,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757c8d61b5fe090d740574"
+  },
+  "name": "Stadt Chemnitz",
+  "category": "Kindertageseinrichtungen",
+  "address": "Bernsdorfer Straße 147 \"Sausewind\" Bernsdorfer Straße 09126 Chemnitz",
+  "contact": "0371 50517",
+  "latitude": 50.8150254363242,
+  "longitude": 12.9457794365416,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757c8d61b5fe090d740575"
+  },
+  "name": "Arbeiterwohlfahrt Soziale Dienste Chemnitz und Umg",
+  "category": "Kindertageseinrichtungen",
+  "address": "Klaffenbacher Hauptstr. 85, Hort GS-Klaffenbach Klaffenbacher Hauptstraß 09123 Chemnitz",
+  "contact": "0371 2677774",
+  "latitude": 50.7618095763878,
+  "longitude": 12.9132135638696,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757c8d61b5fe090d740576"
+  },
+  "name": "Kinder-, Jugend- u. Familienhilfe e. V. Chemnitz",
+  "category": "Kindertageseinrichtungen",
+  "address": "Stadlerstraße 10 \"Bunte Kinderwelt\" Stadlerstraße 09126 Chemnitz",
+  "contact": "0371 49502320",
+  "latitude": 50.8201694323276,
+  "longitude": 12.9286916047645,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757c8d61b5fe090d740577"
+  },
+  "name": "Kinder-, Jugend- u. Familienhilfe e. V. Chemnitz",
+  "category": "Kindertageseinrichtungen",
+  "address": "Kirchweg (Wittgensdorf) 8 \"Haus Floh\" Kirchweg (Wittgensdorf) 09228 Chemnitz",
+  "contact": "0371 49502370",
+  "latitude": 50.8797752481243,
+  "longitude": 12.8659229710927,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757c8d61b5fe090d740578"
+  },
+  "name": "Kinder-, Jugend- u. Familienhilfe e. V. Chemnitz",
+  "category": "Kindertageseinrichtungen",
+  "address": "Bernhardstraße 77 \"Spielhaus Groß und Klein\" Bernhardstraße 09126 Chemnitz",
+  "contact": "0371 49502330",
+  "latitude": 50.8301493146958,
+  "longitude": 12.9457945152792,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757c8d61b5fe090d740579"
+  },
+  "name": "Kinder-, Jugend- u. Familienhilfe e. V. Chemnitz",
+  "category": "Kindertageseinrichtungen",
+  "address": "Bernhardstraße 77 \"Kindertreffpunkt\" Bernhardstraße 09126 Chemnitz",
+  "contact": "0371 49502335",
+  "latitude": 50.8301493146958,
+  "longitude": 12.9457945152792,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757c8d61b5fe090d74057a"
+  },
+  "name": "Kinder-, Jugend- u. Familienhilfe e. V. Chemnitz",
+  "category": "Kindertageseinrichtungen",
+  "address": "Liddy-Ebersberger-Straße 2, Hort GS-Gablenz Liddy-Ebersberger-Straße 09127 Chemnitz",
+  "contact": "0371 49502385",
+  "latitude": 50.8213803609345,
+  "longitude": 12.9610623972702,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757c8d61b5fe090d74057b"
+  },
+  "name": "Kinder-, Jugend- u. Familienhilfe e. V. Chemnitz",
+  "category": "Kindertageseinrichtungen",
+  "address": "Obere Hauptstraße 5 \"Haus Zirkus\", Hort Kirchner-GS Obere Hauptstraße 09228 Chemnitz",
+  "contact": "037200 87626",
+  "latitude": 50.8811152346839,
+  "longitude": 12.867835951917,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757c8d61b5fe090d74057c"
+  },
+  "name": "Arbeiterwohlfahrt Soziale Dienste Chemnitz und Umg",
+  "category": "Kindertageseinrichtungen",
+  "address": "Am Hang 22 \"Kita Reichenhainer Wichtelberg\" Am Hang 09125 Chemnitz",
+  "contact": "0371 38255244",
+  "latitude": 50.7963295387355,
+  "longitude": 12.9549803222135,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757c8d61b5fe090d74057d"
+  },
+  "name": "Stadt Chemnitz",
+  "category": "Kindertageseinrichtungen",
+  "address": "Lutherstraße 12 \"Regenbogenland\" Lutherstraße 09126 Chemnitz",
+  "contact": "0371 515974",
+  "latitude": 50.8255873717681,
+  "longitude": 12.9331635899188,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757c8d61b5fe090d74057e"
+  },
+  "name": "Stadt Chemnitz",
+  "category": "Kindertageseinrichtungen",
+  "address": "Schmidt-Rottluff-Straße 50 Schmidt-Rottluff-Straße 09114 Chemnitz",
+  "contact": "0371 411223",
+  "latitude": 50.8838710429322,
+  "longitude": 12.9333797576329,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757c8d61b5fe090d74057f"
+  },
+  "name": "Arbeiterwohlfahrt Soziale Dienste Chemnitz und Umg",
+  "category": "Kindertageseinrichtungen",
+  "address": "Genossenschaftsweg 2, Hort GS-Reichenhain Genossenschaftsweg 09125 Chemnitz",
+  "contact": "0371 4005451",
+  "latitude": 50.7978515260489,
+  "longitude": 12.9532313244967,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757c8d61b5fe090d740580"
+  },
+  "name": "Stadt Chemnitz",
+  "category": "Kindertageseinrichtungen",
+  "address": "Augsburger Straße 36, Hort Heinrich-Heine-GS Augsburger Straße 09126 Chemnitz",
+  "contact": "0371 50220 / 52027551",
+  "latitude": 50.8152414379683,
+  "longitude": 12.9394594823325,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757c8d61b5fe090d740581"
+  },
+  "name": "Stadt Chemnitz",
+  "category": "Kindertageseinrichtungen",
+  "address": "Ferdinandstraße 159 \"Waldameisen\" Ferdinandstraße 09128 Chemnitz",
+  "contact": "0371 772325",
+  "latitude": 50.7986672891873,
+  "longitude": 13.0324322805026,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757c8d61b5fe090d740582"
+  },
+  "name": "Stadt Chemnitz",
+  "category": "Kindertageseinrichtungen",
+  "address": "Ludwig-Richter-Straße 27 \"Sachsenspatzen\" Ludwig-Richter-Straße 09131 Chemnitz",
+  "contact": "0371 414416",
+  "latitude": 50.8548043926369,
+  "longitude": 12.9503308242408,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757c8d61b5fe090d740583"
+  },
+  "name": "Stadt Chemnitz",
+  "category": "Kindertageseinrichtungen",
+  "address": "Ludwig-Richter-Straße 27 \"Filou\" Ludwig-Richter-Straße 09131 Chemnitz",
+  "contact": "0371 412718",
+  "latitude": 50.8548043926369,
+  "longitude": 12.9503308242408,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757c8d61b5fe090d740584"
+  },
+  "name": "Arbeiterwohlfahrt Soziale Dienste Chemnitz und Umg",
+  "category": "Kindertageseinrichtungen",
+  "address": "Paul-Arnold-Straße 1 \"AWO Kinder- und Familienzentrum Sonnenwelt\", (KiFaZ) Paul-Arnold-Straße 09130 Chemnitz",
+  "contact": "0371 4014164",
+  "latitude": 50.8334203716095,
+  "longitude": 12.9335746107811,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757c8d61b5fe090d740585"
+  },
+  "name": "Arbeiterwohlfahrt Soziale Dienste Chemnitz und Umg",
+  "category": "Kindertageseinrichtungen",
+  "address": "August-Bebel-Straße 7, Hort GS Grüna \"Baumgarten\" August-Bebel-Straße (Grü 09224 Chemnitz",
+  "contact": "0371 858149",
+  "latitude": 50.8128635957143,
+  "longitude": 12.7879011651499,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757c8d61b5fe090d740586"
+  },
+  "name": "Arbeiterwohlfahrt Soziale Dienste Chemnitz und Umg",
+  "category": "Kindertageseinrichtungen",
+  "address": "Hofer Straße (Mb.) 17 \"Mittelbacher Zwergenland\" Hofer Straße (Mittelbach 09224 Chemnitz",
+  "contact": "0371 850373",
+  "latitude": 50.799381803077,
+  "longitude": 12.8033971207043,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757c8d61b5fe090d740587"
+  },
+  "name": "Arbeiterwohlfahrt Soziale Dienste Chemnitz und Umg",
+  "category": "Kindertageseinrichtungen",
+  "address": "Hofer Straße (Mb.) 35, Hort GS-Mittelbach Hofer Straße (Mittelbach 09224 Chemnitz",
+  "contact": "0371 8449884",
+  "latitude": 50.7992018240887,
+  "longitude": 12.798802152201,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757c8d61b5fe090d740588"
+  },
+  "name": "Arbeiterwohlfahrt Soziale Dienste Chemnitz und Umg",
+  "category": "Kindertageseinrichtungen",
+  "address": "Forststraße (Grüna) 8 \"Kinderhaus Baumgarten\" Forststraße (Grüna) 09224 Chemnitz",
+  "contact": "0371 8000305",
+  "latitude": 50.8125506552732,
+  "longitude": 12.7788612273973,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757c8d61b5fe090d740589"
+  },
+  "name": "Röhrsdorfer Kinderwelt e. V.",
+  "category": "Kindertageseinrichtungen",
+  "address": "Rathausplatz (Röhrsdorf) 6 Rathausplatz (Röhrsdorf) 09247 Chemnitz",
+  "contact": "03722 500756",
+  "latitude": 50.8605893504301,
+  "longitude": 12.8341450459445,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757c8d61b5fe090d74058a"
+  },
+  "name": "Stadt Chemnitz",
+  "category": "Kindertageseinrichtungen",
+  "address": "Auerswalder Straße 119 \"Rappelkiste\" Auerswalder Straße 09114 Chemnitz",
+  "contact": "0371 3304229",
+  "latitude": 50.8658883284992,
+  "longitude": 12.8977178054171,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757c8d61b5fe090d74058b"
+  },
+  "name": "Stadt Chemnitz",
+  "category": "Kindertageseinrichtungen",
+  "address": "Am Feldschlößchen 18b \"Regenbogen\" Am Feldschlößchen 09116 Chemnitz",
+  "contact": "0371 365021",
+  "latitude": 50.822416487577,
+  "longitude": 12.8843729350344,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757c8d61b5fe090d74058c"
+  },
+  "name": "Stadt Chemnitz",
+  "category": "Kindertageseinrichtungen",
+  "address": "Neukirchner Straße 7a \"Zwergenhaus\" Neukirchner Straße 09116 Chemnitz",
+  "contact": "0371 2804238",
+  "latitude": 50.7976146862325,
+  "longitude": 12.8633648693005,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757c8d61b5fe090d74058d"
+  },
+  "name": "Stadt Chemnitz",
+  "category": "Kindertageseinrichtungen",
+  "address": "Draisdorfer Straße 15 \"Blumenwiese\" Draisdorfer Straße 09114 Chemnitz",
+  "contact": "0371 410404",
+  "latitude": 50.8554613696961,
+  "longitude": 12.9149377442878,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757c8d61b5fe090d74058e"
+  },
+  "name": "Stadt Chemnitz",
+  "category": "Kindertageseinrichtungen",
+  "address": "Schulberg 3, Hort GS-Glösa Schulberg 09114 Chemnitz",
+  "contact": "0371 45904416",
+  "latitude": 50.8726262324853,
+  "longitude": 12.9110427729205,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757c8d61b5fe090d74058f"
+  },
+  "name": "Stadt Chemnitz",
+  "category": "Kindertageseinrichtungen",
+  "address": "Wittgensdorfer Straße 121a, Hort GS-Borna Wittgensdorfer Straße 09114 Chemnitz",
+  "contact": "0371 33832940",
+  "latitude": 50.8636283735536,
+  "longitude": 12.8864599642714,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757c8d61b5fe090d740590"
+  },
+  "name": "Stadt Chemnitz",
+  "category": "Kindertageseinrichtungen",
+  "address": "An der Kirche 2, Hort GS-Euba An der Kirche 09128 Chemnitz",
+  "contact": "03726 7892990",
+  "latitude": 50.8327392756258,
+  "longitude": 13.0207331590798,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757c8d61b5fe090d740591"
+  },
+  "name": "Stadt Chemnitz",
+  "category": "Kindertageseinrichtungen",
+  "address": "Adelsbergstraße 296, Hort GS-Adelsberg Adelsbergstraße 09127 Chemnitz",
+  "contact": "0371 7710249",
+  "latitude": 50.8130363225455,
+  "longitude": 12.9881300107059,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757c8d61b5fe090d740592"
+  },
+  "name": "Stadt Chemnitz",
+  "category": "Kindertageseinrichtungen",
+  "address": "Drosselsteig 4 Drosselsteig 09128 Chemnitz",
+  "contact": "03726 7892990",
+  "latitude": 50.833397271703,
+  "longitude": 13.0231011906562,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757c8d61b5fe090d740593"
+  },
+  "name": "Stadt Chemnitz",
+  "category": "Kindertageseinrichtungen",
+  "address": "Rudolfstraße 12, Hort Rudolf-GS Rudolfstraße 09126 Chemnitz",
+  "contact": "0371 2786888216",
+  "latitude": 50.8291523478849,
+  "longitude": 12.9364615633727,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757c8d61b5fe090d740594"
+  },
+  "name": "Stadt Chemnitz",
+  "category": "Kindertageseinrichtungen",
+  "address": "Carl-von-Ossietzky-Straße 190 \"Rasselbande\" Carl-von-Ossietzky-Straß 09127 Chemnitz",
+  "contact": "0371 741885",
+  "latitude": 50.8210663465993,
+  "longitude": 12.9650443290572,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757c8d61b5fe090d740595"
+  },
+  "name": "Stadt Chemnitz",
+  "category": "Kindertageseinrichtungen",
+  "address": "Reichenhainer Straße 33a \"Krabbelkäfer\" Reichenhainer Straße 09126 Chemnitz",
+  "contact": "0371 50279",
+  "latitude": 50.8182544451819,
+  "longitude": 12.9315715605201,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757c8d61b5fe090d740596"
+  },
+  "name": "Stadt Chemnitz",
+  "category": "Kindertageseinrichtungen",
+  "address": "Schulstraße 35 \"Burg Farbenklecks\" Schulstraße 09125 Chemnitz",
+  "contact": "0371 513380",
+  "latitude": 50.7946005165046,
+  "longitude": 12.91424566034,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757c8d61b5fe090d740597"
+  },
+  "name": "Stadtmission Chemnitz e. V.",
+  "category": "Kindertageseinrichtungen",
+  "address": "Erfenschlager Straße 47 \"Arche Noah\" Erfenschlager Straße 09125 Chemnitz",
+  "contact": "0371 511121",
+  "latitude": 50.7939905335221,
+  "longitude": 12.9311806081718,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757c8d61b5fe090d740598"
+  },
+  "name": "Stadt Chemnitz",
+  "category": "Kindertageseinrichtungen",
+  "address": "Blücherstraße 25 \"Rüsselchen\" Blücherstraße 09126 Chemnitz",
+  "contact": "0371 514860",
+  "latitude": 50.8234423814952,
+  "longitude": 12.9380725421264,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757c8d61b5fe090d740599"
+  },
+  "name": "Stadt Chemnitz",
+  "category": "Kindertageseinrichtungen",
+  "address": "Comeniusstraße 3a \"Comelino\" Comeniusstraße 09120 Chemnitz",
+  "contact": "0371 514114",
+  "latitude": 50.8106855017587,
+  "longitude": 12.9153506931403,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757c8d61b5fe090d74059a"
+  },
+  "name": "Gemeinnütziger Kindergartenverein \"Zwergenland\" e.",
+  "category": "Kindertageseinrichtungen",
+  "address": "Reichenhainer Straße 33a \"Zwergenland\" Reichenhainer Straße 09126 Chemnitz",
+  "contact": "0371 5611821",
+  "latitude": 50.8179834464874,
+  "longitude": 12.9311565673596,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757c8d61b5fe090d74059b"
+  },
+  "name": "Arbeiterwohlfahrt Soziale Dienste Chemnitz und Umg",
+  "category": "Kindertageseinrichtungen",
+  "address": "Bernhardstraße 4 \"Pampel-Muse\", Musischer Kindergarten und Kinder- und Familienzentrum (KiFaZ) Bernhardstraße 09126 Chemnitz",
+  "contact": "0371 50390",
+  "latitude": 50.8271413642756,
+  "longitude": 12.9344795780692,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757c8d61b5fe090d74059c"
+  },
+  "name": "Freier ev. Schulverein Chemnitz e. V.",
+  "category": "Kindertageseinrichtungen",
+  "address": "Tschaikowskistraße 49 \"Hort im Evangelischen Schulzentrum Chemnitz\" Tschaikowskistraße 09130 Chemnitz",
+  "contact": "0371 4331971",
+  "latitude": 50.8372312352753,
+  "longitude": 12.938637581389,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757c8d61b5fe090d74059d"
+  },
+  "name": "Stadt Chemnitz",
+  "category": "Kindertageseinrichtungen",
+  "address": "Ferdinandstraße 97 Ferdinandstraße 09128 Chemnitz",
+  "contact": "0371 27802798",
+  "latitude": 50.8009352326783,
+  "longitude": 13.0191282692872,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757c8d61b5fe090d74059e"
+  },
+  "name": "Stadt Chemnitz",
+  "category": "Kindertageseinrichtungen",
+  "address": "Einsiedler Hauptstraße 25 \"Kinderhaus Sonnenschein\" Einsiedler Hauptstraße 09123 Chemnitz",
+  "contact": "037209 2823",
+  "latitude": 50.7779226110628,
+  "longitude": 12.9716304207523,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757c8d61b5fe090d74059f"
+  },
+  "name": "Stadt Chemnitz",
+  "category": "Kindertageseinrichtungen",
+  "address": "Carl-von-Ossietzky-Straße 190 \"Sonnenblume\" Carl-von-Ossietzky-Straß 09127 Chemnitz",
+  "contact": "0371 724065",
+  "latitude": 50.8210663465993,
+  "longitude": 12.9650443290572,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757c8d61b5fe090d7405a0"
+  },
+  "name": "Stadt Chemnitz",
+  "category": "Kindertageseinrichtungen",
+  "address": "Stöcklstraße 4, Hort GS-Harthau Stöcklstraße 09125 Chemnitz",
+  "contact": "0371 52039113",
+  "latitude": 50.7761555323403,
+  "longitude": 12.9248986743597,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757c8d61b5fe090d7405a1"
+  },
+  "name": "SSA - Sächsische Sozialakademie gGmbH",
+  "category": "Kindertageseinrichtungen",
+  "address": "Straße Usti nad Labem 299 \"Kinderhaus Bienenkorb\" Straße Usti nad Labem 09119 Chemnitz",
+  "contact": "0371 228118",
+  "latitude": 50.8048655438119,
+  "longitude": 12.8831849111731,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757c8d61b5fe090d7405a2"
+  },
+  "name": "Stadt Chemnitz",
+  "category": "Kindertageseinrichtungen",
+  "address": "Wittgensdorfer Straße 2a \"Chemnitzer Eisknirpse\" Wittgensdorfer Straße 09114 Chemnitz",
+  "contact": "0371 3301073",
+  "latitude": 50.8507014941737,
+  "longitude": 12.8962298221765,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757c8d61b5fe090d7405a3"
+  },
+  "name": "Stadt Chemnitz",
+  "category": "Kindertageseinrichtungen",
+  "address": "Waisenstraße 3 \"Kastanienwichtel\" Waisenstraße 09111 Chemnitz",
+  "contact": "0371 6762492",
+  "latitude": 50.836945304007,
+  "longitude": 12.9274477594167,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757c8d61b5fe090d7405a4"
+  },
+  "name": "Stadt Chemnitz",
+  "category": "Kindertageseinrichtungen",
+  "address": "Robert-Siewert-Straße 68/70, Kinder- und Familienzentrum (KiFaZ) Robert-Siewert-Straße 09122 Chemnitz",
+  "contact": "0371 228615",
+  "latitude": 50.7960485036338,
+  "longitude": 12.9014297293319,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757c8d61b5fe090d7405a5"
+  },
+  "name": "Stadt Chemnitz",
+  "category": "Kindertageseinrichtungen",
+  "address": "Albert-Köhler-Straße 93, Hort A.-Einstein-GS Albert-Köhler-Straße 09122 Chemnitz",
+  "contact": "0371 227044",
+  "latitude": 50.7914218719355,
+  "longitude": 12.8877994737677,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757c8d61b5fe090d7405a6"
+  },
+  "name": "Stadt Chemnitz",
+  "category": "Kindertageseinrichtungen",
+  "address": "Schloßstraße 29 Schloßstraße 09111 Chemnitz",
+  "contact": "0371 411307",
+  "latitude": 50.8409533845009,
+  "longitude": 12.9191958130148,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757c8d61b5fe090d7405a7"
+  },
+  "name": "Stadt Chemnitz",
+  "category": "Kindertageseinrichtungen",
+  "address": "Schönherrstraße 2a \"Schlossteichzwerge\" Schönherrstraße 09113 Chemnitz",
+  "contact": "0371 4792247",
+  "latitude": 50.8464124128501,
+  "longitude": 12.9184987558332,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757c8d61b5fe090d7405a8"
+  },
+  "name": "Jugendberufshilfe Chemnitz gGmbH",
+  "category": "Kindertageseinrichtungen",
+  "address": "Friedrich-Hähnel-Straße 86, Hort GS Am Stadtpark Friedrich-Hähnel-Straße 09120 Chemnitz",
+  "contact": "0371 4951540",
+  "latitude": 50.8044944874785,
+  "longitude": 12.8952778982815,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757c8d61b5fe090d7405a9"
+  },
+  "name": "Stadt Chemnitz",
+  "category": "Kindertageseinrichtungen",
+  "address": "Küchwaldstraße 4, Hort Schloßschule-GS \"Rabennest\" Küchwaldstraße 09113 Chemnitz",
+  "contact": "0371 9093130",
+  "latitude": 50.8469484522556,
+  "longitude": 12.9134877784651,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757c8d61b5fe090d7405aa"
+  },
+  "name": "Arbeiterwohlfahrt Soziale Dienste Chemnitz und Umg",
+  "category": "Kindertageseinrichtungen",
+  "address": "Clara-Zetkin-Straße 1 \"Kinderparadies\" Clara-Zetkin-Straße 09111 Chemnitz",
+  "contact": "0371 6956290",
+  "latitude": 50.8267794324752,
+  "longitude": 12.9268526538894,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757c8d61b5fe090d7405ab"
+  },
+  "name": "Arbeiterwohlfahrt Soziale Dienste Chemnitz und Umg",
+  "category": "Kindertageseinrichtungen",
+  "address": "Am Harthwald 128/130 \"AWO Naturkinderhaus Spatzennest\" Am Harthwald 09123 Chemnitz",
+  "contact": "0371 242380",
+  "latitude": 50.7853945502974,
+  "longitude": 12.9063006383063,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757c8d61b5fe090d7405ac"
+  },
+  "name": "Arbeiterwohlfahrt Soziale Dienste Chemnitz und Umg",
+  "category": "Kindertageseinrichtungen",
+  "address": "Friedrich-Hähnel-Straße 7 \"Schmetterling\" Friedrich-Hähnel-Straße 09120 Chemnitz",
+  "contact": "0371 228030",
+  "latitude": 50.8069704770251,
+  "longitude": 12.8940839082913,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757c8d61b5fe090d7405ad"
+  },
+  "name": "Montessori Schulen Chemnitz und Thalheim GmbH",
+  "category": "Kindertageseinrichtungen",
+  "address": "Morgenleite 15 Morgenleite 09122 Chemnitz",
+  "contact": "0371 223921",
+  "latitude": 50.7986505534508,
+  "longitude": 12.8866998294061,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757c8d61b5fe090d7405ae"
+  },
+  "name": "Ev.-Luth. St. Petri Schloßkirchgemeinde",
+  "category": "Kindertageseinrichtungen",
+  "address": "Abteiweg 2 \"Apfelbäumchen\" Abteiweg 09113 Chemnitz",
+  "contact": "0371 3378570",
+  "latitude": 50.8420914787114,
+  "longitude": 12.9110928650426,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757c8d61b5fe090d7405af"
+  },
+  "name": "Kinderbetreuung Sonnenblume e. V.",
+  "category": "Kindertageseinrichtungen",
+  "address": "Hoher Weg 3 Hoher Weg 09116 Chemnitz",
+  "contact": "0371 3551956",
+  "latitude": 50.8287175157383,
+  "longitude": 12.8920010106364,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757c8d61b5fe090d7405b0"
+  },
+  "name": "Stadt Chemnitz",
+  "category": "Kindertageseinrichtungen",
+  "address": "Moritzstraße 33 \"Kita an der Sparkasse\" Moritzstraße 09111 Chemnitz",
+  "contact": "0371 49529708",
+  "latitude": 50.8296935115147,
+  "longitude": 12.9217027704589,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757c8d61b5fe090d7405b1"
+  },
+  "name": "SFZ Förderzentrum gGmbH",
+  "category": "Kindertageseinrichtungen",
+  "address": "Flemmingstraße 4a \"Kindergarten der Sinne\" Flemmingstraße 09116 Chemnitz",
+  "contact": "0371 33513980",
+  "latitude": 50.8429605219434,
+  "longitude": 12.8824420727347,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757c8d61b5fe090d7405b2"
+  },
+  "name": "BIP-Kreativitätszentrum gGmbH",
+  "category": "Kindertageseinrichtungen",
+  "address": "Dittersdorfer Straße 146c, Hort der BIP Kreativitätsgrundschule Chemnitz Dittersdorfer Straße 09122 Chemnitz",
+  "contact": "0371 3342820",
+  "latitude": 50.7935675258238,
+  "longitude": 12.8979607017287,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757c8d61b5fe090d7405b3"
+  },
+  "name": "DPFA Schulen gGmbH",
+  "category": "Kindertageseinrichtungen",
+  "address": "Emilienstraße 48, Hort Freie GS-Regenbogen Emilienstraße 09131 Chemnitz",
+  "contact": "0371 45901130",
+  "latitude": 50.8514183225207,
+  "longitude": 12.9386966708606,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757c8d61b5fe090d7405b4"
+  },
+  "name": "Integrative Sport- und Bildungsförderung (ISB) Che",
+  "category": "Kindertageseinrichtungen",
+  "address": "Max-Türpe-Straße 40, ISB Sporthort Max-Türpe-Straße 09122 Chemnitz",
+  "contact": "0371 56074676",
+  "latitude": 50.7913085949677,
+  "longitude": 12.8824197328207,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757c8d61b5fe090d7405b5"
+  },
+  "name": "Jüdische Gemeinde",
+  "category": "Kindertageseinrichtungen",
+  "address": "Tschaikowskistraße 9 \"Schalom\" Tschaikowskistraße 09130 Chemnitz",
+  "contact": "0371 35590580",
+  "latitude": 50.8318613507427,
+  "longitude": 12.9371445512211,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757c8d61b5fe090d7405b6"
+  },
+  "name": "Montessori Schulen Chemnitz und Thalheim GmbH",
+  "category": "Kindertageseinrichtungen",
+  "address": "Stelzendorfer Straße 271, Hort Freie Montessorischule Stelzendorfer Straße 09116 Chemnitz",
+  "contact": "0371 2366890",
+  "latitude": 50.7981506850947,
+  "longitude": 12.8626248771107,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757c8d61b5fe090d7405b7"
+  },
+  "name": "Kinder-, Jugend- u. Familienhilfe e. V. Chemnitz",
+  "category": "Kindertageseinrichtungen",
+  "address": "Wolgograder Allee 184, Hort Freie GS-Leonardo Wolgograder Allee 09123 Chemnitz",
+  "contact": "0371 4959960",
+  "latitude": 50.7840276276322,
+  "longitude": 12.8814206778484,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757c8d61b5fe090d7405b8"
+  },
+  "name": "Stadt Chemnitz",
+  "category": "Kindertageseinrichtungen",
+  "address": "Albert-Schweitzer-Straße 61, Hort E.-G.-Flemming-GS Albert-Schweitzer-Straße 09116 Chemnitz",
+  "contact": "0371 49529751",
+  "latitude": 50.8399895240461,
+  "longitude": 12.8823370717799,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757c8d61b5fe090d7405b9"
+  },
+  "name": "Stadt Chemnitz",
+  "category": "Kindertageseinrichtungen",
+  "address": "Alfred-Neubert-Straße 25, Hort Charles-Darwin-GS, nur 1. Klasse Alfred-Neubert-Straße 09123 Chemnitz",
+  "contact": "0371 4958400",
+  "latitude": 50.784298579085,
+  "longitude": 12.9010796649564,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757c8d61b5fe090d7405ba"
+  },
+  "name": "Stadt Chemnitz",
+  "category": "Kindertageseinrichtungen",
+  "address": "Lennéstraße 1, Hort GS-Reichenbrand Lennéstraße 09117 Chemnitz",
+  "contact": "0371 851353",
+  "latitude": 50.8115116421283,
+  "longitude": 12.8251060396641,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757c8d61b5fe090d7405bb"
+  },
+  "name": "Stadt Chemnitz",
+  "category": "Kindertageseinrichtungen",
+  "address": "Harthauer Weg 5, Hort GS-Einsiedel Harthauer Weg 09123 Chemnitz",
+  "contact": "037209 691467",
+  "latitude": 50.770337644054,
+  "longitude": 12.9706724447791,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757c8d61b5fe090d7405bc"
+  },
+  "name": "Stadt Chemnitz",
+  "category": "Kindertageseinrichtungen",
+  "address": "Ernst-Heilmann-Straße 11, Hort Altendorfer-GS Ernst-Heilmann-Straße 09116 Chemnitz",
+  "contact": "0371 65116630",
+  "latitude": 50.8325535730261,
+  "longitude": 12.8840220904899,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757c8d61b5fe090d7405bd"
+  },
+  "name": "Privater Träger",
+  "category": "Kindertageseinrichtungen",
+  "address": "Edisonstraße 5 \"Zwergennest\", Kindertagespflege Edisonstraße 09116 Chemnitz",
+  "contact": "0152 04884908",
+  "latitude": 50.8183595892295,
+  "longitude": 12.8697859684746,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757c8d61b5fe090d7405be"
+  },
+  "name": "Privater Träger",
+  "category": "Kindertageseinrichtungen",
+  "address": "Stelzendorfer Straße 9 \"Vogelpieps\", Kindertagespflege Stelzendorfer Straße 09116 Chemnitz",
+  "contact": "0173 5946681",
+  "latitude": 50.8177295789859,
+  "longitude": 12.8707929589203,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757c8d61b5fe090d7405bf"
+  },
+  "name": "Privater Träger",
+  "category": "Kindertageseinrichtungen",
+  "address": "Rosmarinstraße 19 \"BimBamBommel\", Kindertagespflege Rosmarinstraße 09117 Chemnitz",
+  "contact": "0176 20691053",
+  "latitude": 50.8182825961525,
+  "longitude": 12.841902057544,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757c8d61b5fe090d7405c0"
+  },
+  "name": "Privater Träger",
+  "category": "Kindertageseinrichtungen",
+  "address": "Burgstädter Straße 54, Kindertagespflege Burgstädter Straße (Witt 09228 Chemnitz",
+  "contact": "0162 2418264",
+  "latitude": 50.8872651778425,
+  "longitude": 12.8668350864222,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757c8d61b5fe090d7405c1"
+  },
+  "name": "Privater Träger",
+  "category": "Kindertageseinrichtungen",
+  "address": "Theresenstraße 11 \"Parkstrolche\", Kindertagespflege Theresenstraße 09111 Chemnitz",
+  "contact": "0162 2715109",
+  "latitude": 50.8314924700975,
+  "longitude": 12.9279646949565,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757c8d61b5fe090d7405c2"
+  },
+  "name": "Privater Träger",
+  "category": "Kindertageseinrichtungen",
+  "address": "Altendorfer Straße 5 \"Wurzelzwerge\", Kindertagespflege Altendorfer Straße 09113 Chemnitz",
+  "contact": "0157 51244776",
+  "latitude": 50.8456965171244,
+  "longitude": 12.9052828629421,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757c8d61b5fe090d7405c3"
+  },
+  "name": "Privater Träger",
+  "category": "Kindertageseinrichtungen",
+  "address": "Forststraße 4 \"Purzelräuber\", Kindertagespflege Forststraße 09130 Chemnitz",
+  "contact": "0176 61403388",
+  "latitude": 50.844666198698,
+  "longitude": 12.9424045905186,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757c8d61b5fe090d7405c4"
+  },
+  "name": "Stadt Chemnitz",
+  "category": "Kindertageseinrichtungen",
+  "address": "Ernst-Wabra-Straße 34, Hort der Sprachheilschule Ernst Busch Ernst-Wabra-Straße 09123 Chemnitz",
+  "contact": "0371 4952606",
+  "latitude": 50.7874916133008,
+  "longitude": 12.8803397096966,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757c8e61b5fe090d7405c5"
+  },
+  "name": "Kinder-, Jugend- u. Familienhilfe e. V. Chemnitz",
+  "category": "Kindertageseinrichtungen",
+  "address": "Wilhelm-Firl-Straße 4 \"Zwischenstopp\" Wilhelm-Firl-Straße 09122 Chemnitz",
+  "contact": "0371 2823185",
+  "latitude": 50.7922355477348,
+  "longitude": 12.894075691306,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757c8e61b5fe090d7405c6"
+  },
+  "name": "solaris Förderzentrum für Jugend und Umwelt gGmbH ",
+  "category": "Kindertageseinrichtungen",
+  "address": "Haydnstraße 21, Hort Valentina-Tereschkowa-GS, \"Kinderhort Kappelino\" Haydnstraße 09119 Chemnitz",
+  "contact": "0176 13810804",
+  "latitude": 50.8178084437979,
+  "longitude": 12.9013248619352,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757c8e61b5fe090d7405c7"
+  },
+  "name": "Privater Träger",
+  "category": "Kindertageseinrichtungen",
+  "address": "Paul-Gruner-Straße 12 \"Marienkäfer\", Kindertagespflege Paul-Gruner-Straße 09120 Chemnitz",
+  "contact": "0152 21553201",
+  "latitude": 50.8158584662273,
+  "longitude": 12.9109797847796,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757c8e61b5fe090d7405c8"
+  },
+  "name": "Privater Träger",
+  "category": "Kindertageseinrichtungen",
+  "address": "Rilkestraße 32 \"Küchwaldknirpse\", Kindertagespflege Rilkestraße 09114 Chemnitz",
+  "contact": "0371 3367030",
+  "latitude": 50.8555353931985,
+  "longitude": 12.9101977727981,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757c8e61b5fe090d7405c9"
+  },
+  "name": "Privater Träger",
+  "category": "Kindertageseinrichtungen",
+  "address": "Anton-Herrmann-Straße 14 \"Tagesmutti im Grünen\", Kindertagespflege Anton-Herrmann-Straße 09123 Chemnitz",
+  "contact": "037209 3357",
+  "latitude": 50.7702296243314,
+  "longitude": 12.9775754051665,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757c8e61b5fe090d7405ca"
+  },
+  "name": "Privater Träger",
+  "category": "Kindertageseinrichtungen",
+  "address": "Albert-Junghans-Straße 18 \"Steinbergzwerge\", Kindertagespflege Albert-Junghans-Straße 09125 Chemnitz",
+  "contact": "0152 56143255",
+  "latitude": 50.7881825925513,
+  "longitude": 12.9534524777909,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757c8e61b5fe090d7405cb"
+  },
+  "name": "Privater Träger",
+  "category": "Kindertageseinrichtungen",
+  "address": "Postweg 4a \"Die kleinen Strolche\", Kindertagespflege Postweg 09127 Chemnitz",
+  "contact": "0157 30989077",
+  "latitude": 50.8244113475147,
+  "longitude": 12.9549844372364,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757c8e61b5fe090d7405cc"
+  },
+  "name": "Privater Träger",
+  "category": "Kindertageseinrichtungen",
+  "address": "Postweg 4a \"Glückskäfer\", Kindertagespflege Postweg 09127 Chemnitz",
+  "contact": "0178 1355746",
+  "latitude": 50.8244113475147,
+  "longitude": 12.9549844372364,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757c8e61b5fe090d7405cd"
+  },
+  "name": "Privater Träger",
+  "category": "Kindertageseinrichtungen",
+  "address": "Alte Sandgrube 2, Kindertagespflege Alte Sandgrube 09224 Chemnitz",
+  "contact": "0371 8202506",
+  "latitude": 50.8098246920017,
+  "longitude": 12.777498241823,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757c8e61b5fe090d7405ce"
+  },
+  "name": "Privater Träger",
+  "category": "Kindertageseinrichtungen",
+  "address": "Chopinstraße 35 \"Zwergenfüße\", Kindertagespflege Chopinstraße 09119 Chemnitz",
+  "contact": "0176 22762081",
+  "latitude": 50.8187324263101,
+  "longitude": 12.897190863631,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757c8e61b5fe090d7405cf"
+  },
+  "name": "Privater Träger",
+  "category": "Kindertageseinrichtungen",
+  "address": "Thomas-Mann-Platz 4 \"Manus Buntstifte\", Kindertagespflege Thomas-Mann-Platz 09130 Chemnitz",
+  "contact": "0173 2701432",
+  "latitude": 50.8449916307463,
+  "longitude": 12.9385588934402,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757c8e61b5fe090d7405d0"
+  },
+  "name": "Privater Träger",
+  "category": "Kindertageseinrichtungen",
+  "address": "Konradstraße 7 \"Liebevoll & Konsequent\", Kindertagespflege Konradstraße 09113 Chemnitz",
+  "contact": "0176 70719618",
+  "latitude": 50.8416885244443,
+  "longitude": 12.9045499398227,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757c8e61b5fe090d7405d1"
+  },
+  "name": "Privater Träger",
+  "category": "Kindertageseinrichtungen",
+  "address": "Horststraße 14 \"Kleine Sternchen\", Kindertagespflege Horststraße 09119 Chemnitz",
+  "contact": "0157 35131434",
+  "latitude": 50.8179984246169,
+  "longitude": 12.8964798576104,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757c8e61b5fe090d7405d2"
+  },
+  "name": "Privater Träger",
+  "category": "Kindertageseinrichtungen",
+  "address": "Irkutsker Straße 77 \"Grünschnäbel\", Kindertagespflege Irkutsker Straße 09119 Chemnitz",
+  "contact": "0176 63067598",
+  "latitude": 50.8136384464466,
+  "longitude": 12.8925798870861,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757c8e61b5fe090d7405d3"
+  },
+  "name": "Privater Träger",
+  "category": "Kindertageseinrichtungen",
+  "address": "Chopinstraße 35 \"Entdeckerkosmos 2\", Kindertagespflege Chopinstraße 09119 Chemnitz",
+  "contact": "0173 2875452",
+  "latitude": 50.8187324263101,
+  "longitude": 12.897190863631,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757c8e61b5fe090d7405d4"
+  },
+  "name": "Privater Träger",
+  "category": "Kindertageseinrichtungen",
+  "address": "Erich-Mühsam-Straße 21 \"Spatzennest\", Kindertagespflege Erich-Mühsam-Straße 09112 Chemnitz",
+  "contact": "0371 50341045",
+  "latitude": 50.836336527253,
+  "longitude": 12.8977349801728,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757c8e61b5fe090d7405d5"
+  },
+  "name": "Privater Träger",
+  "category": "Kindertageseinrichtungen",
+  "address": "Steinwiese 62 \"Kleine Raben\", Kindertagespflege Steinwiese 09116 Chemnitz",
+  "contact": "0152 09450517",
+  "latitude": 50.8424564548695,
+  "longitude": 12.8729051235789,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757c8e61b5fe090d7405d6"
+  },
+  "name": "Privater Träger",
+  "category": "Kindertageseinrichtungen",
+  "address": "Ferdinandstraße 157 \"Kindertagespflege im Sternmühlental\", Kindertagespflege Ferdinandstraße 09128 Chemnitz",
+  "contact": "0371 7710877",
+  "latitude": 50.7987753159648,
+  "longitude": 13.0313302684735,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757c8e61b5fe090d7405d7"
+  },
+  "name": "Privater Träger",
+  "category": "Kindertageseinrichtungen",
+  "address": "Zum Adelsberg 6, Kindertagespflege Zum Adelsberg 09128 Chemnitz",
+  "contact": "0371 772991",
+  "latitude": 50.8002652752856,
+  "longitude": 13.0078291661472,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757c8e61b5fe090d7405d8"
+  },
+  "name": "Arbeiterwohlfahrt Soziale Dienste Chemnitz und Umg",
+  "category": "Kindertageseinrichtungen",
+  "address": "Genossenschaftsweg 9 \"Die Goldfische\", Kindertagespflege Genossenschaftsweg 09125 Chemnitz",
+  "contact": "0172 1311822",
+  "latitude": 50.7970075298511,
+  "longitude": 12.9542593134778,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757c8e61b5fe090d7405d9"
+  },
+  "name": "Privater Träger",
+  "category": "Kindertageseinrichtungen",
+  "address": "Goetheweg 86b \"Röhrsdorfer Käferland\", Kindertagespflege Goetheweg 09247 Chemnitz",
+  "contact": "0162 9620520",
+  "latitude": 50.8629902998417,
+  "longitude": 12.8235750146007,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757c8e61b5fe090d7405da"
+  },
+  "name": "Privater Träger",
+  "category": "Kindertageseinrichtungen",
+  "address": "Löbenhainer Straße 5 \"Kleine Schmetterlinge\", Kindertagespflege Löbenhainer Straße 09247 Chemnitz",
+  "contact": "0152 29368802",
+  "latitude": 50.8627403213066,
+  "longitude": 12.8114250581455,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757c8e61b5fe090d7405db"
+  },
+  "name": "Privater Träger",
+  "category": "Kindertageseinrichtungen",
+  "address": "Darwinweg 3 \"Zwergenstübchen\", Kindertagespflege Darwinweg 09247 Chemnitz",
+  "contact": "03722 796895",
+  "latitude": 50.8578634089382,
+  "longitude": 12.8607840605622,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757c8e61b5fe090d7405dc"
+  },
+  "name": "Privater Träger",
+  "category": "Kindertageseinrichtungen",
+  "address": "Straße der Nationen 91 \"Tipp Tapp\", Kindertagespflege Straße der Nationen 09113 Chemnitz",
+  "contact": "0152 01949684",
+  "latitude": 50.8486333511858,
+  "longitude": 12.932002687133,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757c8e61b5fe090d7405dd"
+  },
+  "name": "Privater Träger",
+  "category": "Kindertageseinrichtungen",
+  "address": "Richardstraße 10 \"Der zauberhafte Tagespapi\" \", Kindertagespflege Richardstraße 09113 Chemnitz",
+  "contact": "0179 4216207",
+  "latitude": 50.8493983773013,
+  "longitude": 12.926779697177,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757c8e61b5fe090d7405de"
+  },
+  "name": "Privater Träger",
+  "category": "Kindertageseinrichtungen",
+  "address": "Im Schloßwald 1 \"Küchwaldstrolche\", Kindertagespflege Im Schloßwald 09113 Chemnitz",
+  "contact": "0371 3379069",
+  "latitude": 50.8522583917092,
+  "longitude": 12.9178387206178,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757c8e61b5fe090d7405df"
+  },
+  "name": "Röhrsdorfer Kinderwelt e. V.",
+  "category": "Kindertageseinrichtungen",
+  "address": "Beethovenweg 44, Hort GS-Röhrsdorf Beethovenweg 09247 Chemnitz",
+  "contact": "03722 6980636",
+  "latitude": 50.8625573417945,
+  "longitude": 12.8355900565974,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757c8e61b5fe090d7405e0"
+  },
+  "name": "Stadt Chemnitz",
+  "category": "Kindertageseinrichtungen",
+  "address": "Martinstraße 17 \"Offene Kindertagesstätte\" Martinstraße 09130 Chemnitz",
+  "contact": "0371 4010435",
+  "latitude": 50.8332323677443,
+  "longitude": 12.9354335718583,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757c8e61b5fe090d7405e1"
+  },
+  "name": "Montessori-Verein Chemnitz e. V.",
+  "category": "Kindertageseinrichtungen",
+  "address": "Ernst-Enge-Straße 21, Hort Montessori-Schule Ernst-Enge-Straße 09127 Chemnitz",
+  "contact": "0371 71589",
+  "latitude": 50.8238783328862,
+  "longitude": 12.9593404089906,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757c8e61b5fe090d7405e2"
+  },
+  "name": "SFZ Förderzentrum gGmbH",
+  "category": "Kindertageseinrichtungen",
+  "address": "Louis-Braille-Straße 35 \"Buntspechte\" Louis-Braille-Straße 09116 Chemnitz",
+  "contact": "0371 67600280",
+  "latitude": 50.8414785259046,
+  "longitude": 12.8843700590137,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757c8e61b5fe090d7405e3"
+  },
+  "name": "Kinder-, Jugend- u. Familienhilfe e. V. Chemnitz",
+  "category": "Kindertageseinrichtungen",
+  "address": "Weydemeyerstraße 21 \"Rabennest\" Weydemeyerstraße 09117 Chemnitz",
+  "contact": "0371 49502355",
+  "latitude": 50.8270345425961,
+  "longitude": 12.8372980275038,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757c8e61b5fe090d7405e4"
+  },
+  "name": "CVJM Computerclub e. V.",
+  "category": "Kindertageseinrichtungen",
+  "address": "Am Laubengang 15 \"Medienkindergarten kikkif@x\" Am Laubengang 09116 Chemnitz",
+  "contact": "0371 3540002",
+  "latitude": 50.8290205295122,
+  "longitude": 12.8904260330663,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757c8e61b5fe090d7405e5"
+  },
+  "name": "Kinder-, Jugend- u. Familienhilfe e. V. Chemnitz",
+  "category": "Kindertageseinrichtungen",
+  "address": "Erfenschlager Straße 149 \"Kinderhaus LEONARDO\" Erfenschlager Straße 09125 Chemnitz",
+  "contact": "0371 49502380",
+  "latitude": 50.7873645927509,
+  "longitude": 12.951540475107,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757c8e61b5fe090d7405e6"
+  },
+  "name": "Kreativ-Villa GmbH",
+  "category": "Kindertageseinrichtungen",
+  "address": "Erfenschlager Straße 137 \"Kreativ-Villa\" Erfenschlager Straße 09125 Chemnitz",
+  "contact": "0371 5430659",
+  "latitude": 50.789590584576,
+  "longitude": 12.9494674678038,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757c8e61b5fe090d7405e7"
+  },
+  "name": "Waldorfkindergartenverein Chemnitz e. V.",
+  "category": "Kindertageseinrichtungen",
+  "address": "Auerswalder Straße 120, Hort Parzival-Förderschule Auerswalder Straße 09114 Chemnitz",
+  "contact": "0371 33407652",
+  "latitude": 50.8652783328001,
+  "longitude": 12.8983577915334,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757c8e61b5fe090d7405e8"
+  },
+  "name": "Caritasverband für Chemnitz und Umgebung e. V.",
+  "category": "Kindertageseinrichtungen",
+  "address": "Pestalozzistraße 33 \"Schatzkiste\" Pestalozzistraße 09130 Chemnitz",
+  "contact": "0371 56014764",
+  "latitude": 50.8347732700064,
+  "longitude": 12.9425375240301,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757c8e61b5fe090d7405e9"
+  },
+  "name": "Elterninitiative Kinderladen \"Tigerente\" e. V.",
+  "category": "Kindertageseinrichtungen",
+  "address": "Clausewitzstraße 4 \"Kinderladen\" Clausewitzstraße 09130 Chemnitz",
+  "contact": "0371 4059979",
+  "latitude": 50.8298362004475,
+  "longitude": 12.9627513679519,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757c8e61b5fe090d7405ea"
+  },
+  "name": "Stadt Chemnitz",
+  "category": "Kindertageseinrichtungen",
+  "address": "Clausewitzstraße 4 Clausewitzstraße 09130 Chemnitz",
+  "contact": "0371 7008509",
+  "latitude": 50.8298362004475,
+  "longitude": 12.9627513679519,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757c8e61b5fe090d7405eb"
+  },
+  "name": "Stadt Chemnitz",
+  "category": "Kindertageseinrichtungen",
+  "address": "Richard-Wagner-Straße 76, Hort G.-Götz-Schule für Hörgeschädigte Richard-Wagner-Straße 09120 Chemnitz",
+  "contact": "0371 23629818",
+  "latitude": 50.814758436278,
+  "longitude": 12.8994398622276,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757d0a5cc9a706924e0c70"
+  },
+  "name": "Regenbogenbus e. V. ",
+  "category": "Schulsozialarbeit",
+  "address": "Wittgensdorfer Straße 121a 09114 Chemnitz",
+  "contact": "0176 56707782",
+  "latitude": 50.8633389905466,
+  "longitude": 12.8850360603135,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757d0a5cc9a706924e0c71"
+  },
+  "name": "Regenbogenbus e. V. ",
+  "category": "Schulsozialarbeit",
+  "address": "Wittgensdorfer Straße 121 09114 Chemnitz",
+  "contact": "0371 2786887-10\n0176 56721413",
+  "latitude": 50.8622459346951,
+  "longitude": 12.8864253328506,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757d0a5cc9a706924e0c72"
+  },
+  "name": "Arbeiterwohlfahrt Soziale Dienste Chemnitz und Umgebung gGmbH",
+  "category": "Schulsozialarbeit",
+  "address": "Sandstraße 102 09114 Chemnitz",
+  "contact": null,
+  "latitude": 50.8620186720013,
+  "longitude": 12.8980267295606,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757d0a5cc9a706924e0c73"
+  },
+  "name": "Arbeiterwohlfahrt Soziale Dienste Chemnitz und Umgebung gGmbH",
+  "category": "Schulsozialarbeit",
+  "address": "August-Bebel-Straße (Grüna) 7 09224 Chemnitz",
+  "contact": "0172 1461720",
+  "latitude": 50.8134154980481,
+  "longitude": 12.7857570982484,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757d0a5cc9a706924e0c74"
+  },
+  "name": "solaris Förderzentrum für Jugend & Umwelt gGmbH Sachsen",
+  "category": "Schulsozialarbeit",
+  "address": "Guerickestraße 38 09116 Chemnitz",
+  "contact": "0371 815760\n0176 1381 0815",
+  "latitude": 50.8229833201809,
+  "longitude": 12.8733752933211,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757d0a5cc9a706924e0c75"
+  },
+  "name": "Selbsthilfe Wohnprojekt Further Straße e. V.",
+  "category": "Schulsozialarbeit",
+  "address": "Lennéstraße 1 09117 Chemnitz",
+  "contact": "0371 8157527\n0174 3522231",
+  "latitude": 50.8115128110385,
+  "longitude": 12.8251258225996,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757d0a5cc9a706924e0c76"
+  },
+  "name": "Selbsthilfe Wohnprojekt Further Straße e. V.",
+  "category": "Schulsozialarbeit",
+  "address": "Albert-Schweitzer-Straße 61 09116 Chemnitz",
+  "contact": "0157 80549073",
+  "latitude": 50.8399911254795,
+  "longitude": 12.8823574393427,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757d0a5cc9a706924e0c77"
+  },
+  "name": "Regenbogenbus e. V. ",
+  "category": "Schulsozialarbeit",
+  "address": "Arthur-Bretschneider-Straße 17 09113 Chemnitz",
+  "contact": "0371 374360\n0157 33972736",
+  "latitude": 50.8450880325514,
+  "longitude": 12.9013606031607,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757d0a5cc9a706924e0c78"
+  },
+  "name": "Selbsthilfe Wohnprojekt Further Straße e. V.",
+  "category": "Schulsozialarbeit",
+  "address": "Ernst-Heilmann-Straße 11 09116 Chemnitz",
+  "contact": "0371  3691415\n01577 6372129\n0176 73511217",
+  "latitude": 50.8325546104525,
+  "longitude": 12.8840422701945,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757d0a5cc9a706924e0c79"
+  },
+  "name": "Regenbogenbus e. V. ",
+  "category": "Schulsozialarbeit",
+  "address": "Flemmingstraße 8g 09116 Chemnitz",
+  "contact": "0371  80818146",
+  "latitude": 50.8425583937128,
+  "longitude": 12.876749147522,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757d0a5cc9a706924e0c7a"
+  },
+  "name": "solaris Förderzentrum für Jugend & Umwelt gGmbH Sachsen",
+  "category": "Schulsozialarbeit",
+  "address": "Fritz-Matschke-Straße 21 09113 Chemnitz",
+  "contact": "0371 3741914\n0176 168 550 43",
+  "latitude": 50.8413040029236,
+  "longitude": 12.9026935754136,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757d0a5cc9a706924e0c7b"
+  },
+  "name": "solaris Förderzentrum für Jugend & Umwelt gGmbH Sachsen",
+  "category": "Schulsozialarbeit",
+  "address": "Fritz-Matschke-Straße 23 09113 Chemnitz",
+  "contact": "0371 3741917\n0176 138 108 09",
+  "latitude": 50.8416189519938,
+  "longitude": 12.9027950932735,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757d0a5cc9a706924e0c7c"
+  },
+  "name": "inpeos e. V.",
+  "category": "Schulsozialarbeit",
+  "address": "Heinrich-Beck-Straße 2 09112 Chemnitz",
+  "contact": "0371 302956\n0151 654 780 76 ",
+  "latitude": 50.8292552027294,
+  "longitude": 12.9080500786032,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757d0a5cc9a706924e0c7d"
+  },
+  "name": "inpeos e. V.",
+  "category": "Schulsozialarbeit",
+  "address": "Henriettenstraße 35 09112 Chemnitz",
+  "contact": "0176 14622579",
+  "latitude": 50.8354310560147,
+  "longitude": 12.9024222464489,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757d0a5cc9a706924e0c7e"
+  },
+  "name": "solaris Förderzentrum für Jugend & Umwelt gGmbH Sachsen",
+  "category": "Schulsozialarbeit",
+  "address": "Hohe Straße 35 09112 Chemnitz",
+  "contact": "01761 6855039",
+  "latitude": 50.8352668312807,
+  "longitude": 12.911862861039,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757d0a5cc9a706924e0c7f"
+  },
+  "name": "solaris Förderzentrum für Jugend & Umwelt gGmbH Sachsen",
+  "category": "Schulsozialarbeit",
+  "address": "Josephinenplatz 9 09113 Chemnitz",
+  "contact": "0371 4497-950\n0176 16855037\n",
+  "latitude": 50.8498707697401,
+  "longitude": 12.9296492190006,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757d0a5cc9a706924e0c80"
+  },
+  "name": "Selbsthilfe Wohnprojekt Further Straße e. V.",
+  "category": "Schulsozialarbeit",
+  "address": "Reichsstraße 45 09112 Chemnitz",
+  "contact": "0371 3816523\n0157 76372125",
+  "latitude": 50.835447608084,
+  "longitude": 12.9068504559025,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757d0a5cc9a706924e0c81"
+  },
+  "name": "Regenbogenbus e. V. ",
+  "category": "Schulsozialarbeit",
+  "address": "Richard-Wagner-Straße 76 09120 Chemnitz",
+  "contact": "0371 2720918",
+  "latitude": 50.8147593898924,
+  "longitude": 12.8994600283918,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757d0a5cc9a706924e0c82"
+  },
+  "name": "solaris Förderzentrum für Jugend & Umwelt gGmbH Sachsen",
+  "category": "Schulsozialarbeit",
+  "address": "Scheffelstraße 18 09120 Chemnitz",
+  "contact": "0371 2815717\n0176 16855036",
+  "latitude": 50.8030042437469,
+  "longitude": 12.8928433256839,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757d0a5cc9a706924e0c83"
+  },
+  "name": "Arbeiterwohlfahrt Soziale Dienste Chemnitz und Umgebung gGmbH",
+  "category": "Schulsozialarbeit",
+  "address": "Straße Usti nad Labem 277 09119 Chemnitz",
+  "contact": "0163 4158153 ",
+  "latitude": 50.8057303827128,
+  "longitude": 12.8856222242871,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757d0a5cc9a706924e0c84"
+  },
+  "name": "Arbeiterwohlfahrt Soziale Dienste Chemnitz und Umgebung gGmbH",
+  "category": "Schulsozialarbeit",
+  "address": "Straße Usti nad Labem 279 09119 Chemnitz",
+  "contact": "\n0162 214 3737",
+  "latitude": 50.805262135884,
+  "longitude": 12.8850807101631,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757d0a5cc9a706924e0c85"
+  },
+  "name": "KINDERLAND-Sachsen e. V.",
+  "category": "Schulsozialarbeit",
+  "address": "Albert-Köhler-Straße 48 09122 Chemnitz",
+  "contact": "0371 2660125\n0177343 2570\n",
+  "latitude": 50.7930311466346,
+  "longitude": 12.8889423266504,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757d0a5cc9a706924e0c86"
+  },
+  "name": "KINDERLAND-Sachsen e. V.",
+  "category": "Schulsozialarbeit",
+  "address": "Arno-Schreiter-Straße 1 09123 Chemnitz",
+  "contact": "0371 262121 915\n0177 3432570",
+  "latitude": 50.7914847502766,
+  "longitude": 12.902724392555,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757d0a5cc9a706924e0c87"
+  },
+  "name": "inpeos e. V.",
+  "category": "Schulsozialarbeit",
+  "address": "Alfred-Neubert-Straße 25 09123 Chemnitz",
+  "contact": "0371 2660217",
+  "latitude": 50.7840835945015,
+  "longitude": 12.9019557001839,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757d0a5cc9a706924e0c88"
+  },
+  "name": "Kinder-, Jugend- und Familienhilfe e. V. Chemnitz",
+  "category": "Schulsozialarbeit",
+  "address": "Arno-Schreiter-Straße 1 09123 Chemnitz",
+  "contact": "0371 3816622\n0160-93941924",
+  "latitude": 50.7914847502766,
+  "longitude": 12.902724392555,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757d0a5cc9a706924e0c89"
+  },
+  "name": "Arbeiterwohlfahrt Soziale Dienste Chemnitz und Umgebung gGmbH",
+  "category": "Schulsozialarbeit",
+  "address": "Max-Türpe-Straße 58 09122 Chemnitz",
+  "contact": "01634158171",
+  "latitude": 50.7922749102438,
+  "longitude": 12.8872762658422,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757d0a5cc9a706924e0c8a"
+  },
+  "name": "Regenbogenbus e. V. ",
+  "category": "Schulsozialarbeit",
+  "address": "An der Markthalle 10 09111 Chemnitz",
+  "contact": "0371 67521130",
+  "latitude": 50.8353107212991,
+  "longitude": 12.9162479011136,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757d0a5cc9a706924e0c8b"
+  },
+  "name": "Kinder-, Jugend- und Familienhilfe e. V. Chemnitz",
+  "category": "Schulsozialarbeit",
+  "address": "Brauhausstraße 16 09111 Chemnitz",
+  "contact": "0371 36913120\n0160 93941956",
+  "latitude": 50.8280539252831,
+  "longitude": 12.9218298722116,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757d0a5cc9a706924e0c8c"
+  },
+  "name": "Kinder-, Jugend- und Familienhilfe e. V. Chemnitz",
+  "category": "Schulsozialarbeit",
+  "address": "Brauhausstraße 16 09111 Chemnitz",
+  "contact": "0371 36913117\n0160 93942068",
+  "latitude": 50.8280539252831,
+  "longitude": 12.9218298722116,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757d0a5cc9a706924e0c8d"
+  },
+  "name": "KINDERVEREINIGUNG Chemnitz e. V.",
+  "category": "Schulsozialarbeit",
+  "address": "Augsburger Straße 32 09126 Chemnitz",
+  "contact": "0163 7027853",
+  "latitude": 50.8158443616826,
+  "longitude": 12.9399234062508,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757d0a5cc9a706924e0c8e"
+  },
+  "name": "KINDERVEREINIGUNG Chemnitz e. V.",
+  "category": "Schulsozialarbeit",
+  "address": "Bernsdorfer Straße 126 09126 Chemnitz",
+  "contact": "0152 29997591\n0371 4027854\n",
+  "latitude": 50.8159174147348,
+  "longitude": 12.9421690561178,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757d0a5cc9a706924e0c8f"
+  },
+  "name": "Kinder-, Jugend- und Familienhilfe e. V. Chemnitz",
+  "category": "Schulsozialarbeit",
+  "address": "Brühl 59 09111 Chemnitz",
+  "contact": "0371 4714117   0371 49502100",
+  "latitude": 50.8434122247297,
+  "longitude": 12.9249146500484,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757d0a5cc9a706924e0c90"
+  },
+  "name": "solaris Förderzentrum für Jugend & Umwelt gGmbH Sachsen",
+  "category": "Schulsozialarbeit",
+  "address": "Haydnstraße 21 09119 Chemnitz",
+  "contact": "0371 3691615",
+  "latitude": 50.8178100083381,
+  "longitude": 12.9013451596457,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757d0a5cc9a706924e0c91"
+  },
+  "name": "Arbeiterwohlfahrt Soziale Dienste Chemnitz und Umgebung gGmbH    ",
+  "category": "Schulsozialarbeit",
+  "address": "Park der Opfer des Faschismus 2 09111 Chemnitz",
+  "contact": "0173 5171658         0371 6956182",
+  "latitude": 50.8304238615326,
+  "longitude": 12.9305215412994,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757d0a5cc9a706924e0c92"
+  },
+  "name": "KINDERVEREINIGUNG Chemnitz e. V.",
+  "category": "Schulsozialarbeit",
+  "address": "Reichenhainer Straße 206 09125 Chemnitz",
+  "contact": "\n0152 299 975 85     0371 4027854",
+  "latitude": 50.8029705326177,
+  "longitude": 12.937251881947,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757d0a5cc9a706924e0c93"
+  },
+  "name": "Regenbogenbus e. V. ",
+  "category": "Schulsozialarbeit",
+  "address": "Schloßstraße 3 09111 Chemnitz",
+  "contact": "0371 488-8049\n0159 06501248 037200 88291",
+  "latitude": 50.8383383631828,
+  "longitude": 12.9156510937022,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757d0a5cc9a706924e0c94"
+  },
+  "name": "Selbsthilfe Wohnprojekt Further Straße e. V.",
+  "category": "Schulsozialarbeit",
+  "address": "Schulstraße 2 09125 Chemnitz",
+  "contact": "\n01577 637 2127\n0179 439 3809\n",
+  "latitude": 50.7993813312941,
+  "longitude": 12.9110148524672,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757d0a5cc9a706924e0c95"
+  },
+  "name": "Förderverein Chemnitzer Schulmodell e. V.",
+  "category": "Schulsozialarbeit",
+  "address": "Stollberger Straße 25 09119 Chemnitz",
+  "contact": "0371 69576486",
+  "latitude": 50.8239270383139,
+  "longitude": 12.91265888046,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757d0a5cc9a706924e0c96"
+  },
+  "name": "KINDERVEREINIGUNG Chemnitz e. V.",
+  "category": "Schulsozialarbeit",
+  "address": "Reichenhainer Straße 210 09125 Chemnitz",
+  "contact": "0152 299 975 93",
+  "latitude": 50.802884141863,
+  "longitude": 12.936586997522,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757d0a5cc9a706924e0c97"
+  },
+  "name": "F+U Sachsen gGmbH     ",
+  "category": "Schulsozialarbeit",
+  "address": "Ludwig-Richter-Straße 19 09131 Chemnitz",
+  "contact": "0174 918 0871",
+  "latitude": 50.8527261988194,
+  "longitude": 12.9488765826542,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757d0a5cc9a706924e0c98"
+  },
+  "name": "Don Bosco Sachsen",
+  "category": "Schulsozialarbeit",
+  "address": "Reinhardtstraße 6 09130 Chemnitz",
+  "contact": "03724 600\n0151 70388891\n",
+  "latitude": 50.841262725248,
+  "longitude": 12.9397707592911,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757d0a5cc9a706924e0c99"
+  },
+  "name": "Regenbogenbus e. V. ",
+  "category": "Schulsozialarbeit",
+  "address": "Heinrich-Schütz-Straße 61 09130 Chemnitz",
+  "contact": "0371 39893012",
+  "latitude": 50.8394367197235,
+  "longitude": 12.954409907451,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757d0a5cc9a706924e0c9a"
+  },
+  "name": "Kinder-, Jugend- und Familienhilfe e. V. Chemnitz",
+  "category": "Schulsozialarbeit",
+  "address": "Humboldtplatz 1 09130 Chemnitz",
+  "contact": "0371 39892836",
+  "latitude": 50.8353511594525,
+  "longitude": 12.9480600569853,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757d0a5cc9a706924e0c9b"
+  },
+  "name": "Don Bosco Sachsen",
+  "category": "Schulsozialarbeit",
+  "address": "Ludwig-Kirsch-Straße 27 09130 Chemnitz",
+  "contact": "0175 7015847",
+  "latitude": 50.8364972682956,
+  "longitude": 12.9412264741818,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757d0a5cc9a706924e0c9c"
+  },
+  "name": "Don Bosco Sachsen",
+  "category": "Schulsozialarbeit",
+  "address": "Ludwig-Kirsch-Straße 27 09130 Chemnitz",
+  "contact": "0371 43316013\n0175 701 4956\n0171 566 0262\n",
+  "latitude": 50.8364972682956,
+  "longitude": 12.9412264741818,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757d0a5cc9a706924e0c9d"
+  },
+  "name": "Stadtmission Chemnitz e. V.",
+  "category": "Schulsozialarbeit",
+  "address": "Tschaikowskistraße 49 09130 Chemnitz",
+  "contact": "0371 4331970\n0175 2218432",
+  "latitude": 50.8372324492807,
+  "longitude": 12.9386579069539,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757d0a5cc9a706924e0c9e"
+  },
+  "name": "Don Bosco Sachsen",
+  "category": "Schulsozialarbeit",
+  "address": "Uhlandstraße 2 09130 Chemnitz",
+  "contact": "0171 5660262",
+  "latitude": 50.8358567671611,
+  "longitude": 12.9353668964667,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757d0a5cc9a706924e0c9f"
+  },
+  "name": "Regenbogenbus e. V. ",
+  "category": "Schulsozialarbeit",
+  "address": "Ernst-Moritz-Arndt-Straße 1a 09130 Chemnitz",
+  "contact": "0176 45992551",
+  "latitude": 50.8316116358909,
+  "longitude": 12.9665728167273,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757d0a5cc9a706924e0ca0"
+  },
+  "name": "Stadtmission Chemnitz e. V.",
+  "category": "Schulsozialarbeit",
+  "address": "Adelsbergstraße 90 09126 Chemnitz",
+  "contact": "0371  52039891\n0177 9140042",
+  "latitude": 50.8310069733292,
+  "longitude": 12.9527862375367,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757d0a5cc9a706924e0ca1"
+  },
+  "name": "Verein zur Beruflichen Förderung und Ausbildung e. V. (VBFA)",
+  "category": "Schulsozialarbeit",
+  "address": "Ernst-Moritz-Arndt-Straße 4 09130 Chemnitz",
+  "contact": "0371 722139\n0174 5173621",
+  "latitude": 50.8319919787425,
+  "longitude": 12.9629177798337,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757d0a5cc9a706924e0ca2"
+  },
+  "name": "KINDERVEREINIGUNG Chemnitz e. V.",
+  "category": "Schulsozialarbeit",
+  "address": "Kreherstraße 101 09127 Chemnitz",
+  "contact": "0163 7027852",
+  "latitude": 50.8196174538935,
+  "longitude": 12.9544779086957,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757d3ef7175b1cedbb9790"
+  },
+  "name": "Verein zur Beruflichen Förderung und Ausbildung e. V. (VBFA)",
+  "category": "Jugendberufshilfe",
+  "address": "Waldenburger Straße 63 09116 Chemnitz",
+  "contact": "0371  3824316",
+  "latitude": 50.8310585585904,
+  "longitude": 12.8774888058499,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757d3ef7175b1cedbb9791"
+  },
+  "name": "Jugendberufshilfe Chemnitz gGmbH",
+  "category": "Jugendberufshilfe",
+  "address": "Straße Usti nad Labem 43 09119 Chemnitz",
+  "contact": "0371 4004972",
+  "latitude": 50.809930951272,
+  "longitude": 12.8904748101941,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757d3ef7175b1cedbb9792"
+  },
+  "name": "Jugendberufshilfe Chemnitz gGmbH",
+  "category": "Jugendberufshilfe",
+  "address": "Straße Usti nad Labem 43 09119 Chemnitz",
+  "contact": "3714004990",
+  "latitude": 50.809930951272,
+  "longitude": 12.8904748101941,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757d3ef7175b1cedbb9793"
+  },
+  "name": "Selbsthilfe 91 e. V.",
+  "category": "Jugendberufshilfe",
+  "address": "Zwickauer Straße 6 09112 Chemnitz",
+  "contact": "0371 369230\n0371 533450",
+  "latitude": 50.830248228945,
+  "longitude": 12.9145612977855,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757d3ef7175b1cedbb9794"
+  },
+  "name": "Selbsthilfe 91 e. V.",
+  "category": "Jugendberufshilfe",
+  "address": "Zwickauer Straße 6 09112 Chemnitz",
+  "contact": "0371 369230",
+  "latitude": 50.830248228945,
+  "longitude": 12.9145612977855,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757d3ef7175b1cedbb9795"
+  },
+  "name": "Stadtmission Chemnitz e. V.",
+  "category": "Jugendberufshilfe",
+  "address": "Rembrandtstraße 13b 09111 Chemnitz",
+  "contact": "0371 6004814           0371 4334132",
+  "latitude": 50.8277187975982,
+  "longitude": 12.9295519058841,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757d3ef7175b1cedbb9796"
+  },
+  "name": "Verein zur Beruflichen Förderung und Ausbildung e. V. (VBFA)",
+  "category": "Jugendberufshilfe",
+  "address": "Heinrich-Lorenz-Straße 20 09120 Chemnitz",
+  "contact": "0371 91881285\n0177 4755323",
+  "latitude": 50.8144374873337,
+  "longitude": 12.9112975837362,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757d3ef7175b1cedbb9797"
+  },
+  "name": "Jugendberufshilfe Chemnitz gGmbH",
+  "category": "Jugendberufshilfe",
+  "address": "Heinrich-Lorenz-Straße 20 09120 Chemnitz",
+  "contact": "0371 28300587\n0371 28307193",
+  "latitude": 50.8144374873337,
+  "longitude": 12.9112975837362,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757d3ef7175b1cedbb9798"
+  },
+  "name": "Selbsthilfe 91 e. V.",
+  "category": "Jugendberufshilfe",
+  "address": "Zwickauer Straße 6 09112 Chemnitz",
+  "contact": "0371 533450 0371 369230",
+  "latitude": 50.830248228945,
+  "longitude": 12.9145612977855,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757d3ef7175b1cedbb9799"
+  },
+  "name": "Stadtmission Chemnitz e. V.",
+  "category": "Jugendberufshilfe",
+  "address": "Dresdner Straße 214 09131 Chemnitz",
+  "contact": "0371  45200449",
+  "latitude": 50.8524832484522,
+  "longitude": 12.9579160646245,
+  "__v": 0
+}]

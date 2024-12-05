@@ -1,0 +1,218 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+  }
+  
+  #root {
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+  }
+  
+  .header nav a {
+    color: white;
+    margin: 0 10px;
+    text-decoration: none;
+  }
+  
+  .content {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  form {
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+    text-align: center;
+    margin: 0 auto;
+  }
+  
+  .profileClass, .registerClass{
+    display: inline;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    max-width: 400px;
+    width: 100%;
+    text-align: center;
+  }
+
+  form div, .profileClass div {
+    margin-bottom: 15px;
+  }
+  
+  form label, .profileClass label {
+    margin-bottom: 5px;
+  }
+  
+  form input, .profileClass input {
+    padding: 8px;
+    font-size: 16px;
+  }
+  
+  form button, .profileClass button {
+    padding: 10px;
+    font-size: 16px;
+    background-color: #282c34;
+    color: white;
+    border: none;
+    cursor: pointer;
+    border-radius: 3px;
+  }
+  .profileClass button {
+    margin: 0 10px;
+  }
+  
+  form button:hover, .profileClass button:hover {
+    background-color: #61dafb;
+  }
+
+  body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+  }
+  
+  #root {
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+  }
+   
+  .content {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+  }
+
+  .mapContent{
+    display: inline-block !important;
+  }
+
+  .mapContent h2{
+    text-align: center;
+  }
+  
+  @media (max-width: 600px) {
+    .header {
+      font-size: 18px;
+    }
+  }
+
+  /* App.css */
+.app {
+  display: flex;
+  height: 100vh;
+  flex-direction: row;
+  width: 100%;
+}
+
+.search-panel {
+  width: 40%;
+  padding: 20px 30px 20px 20px;
+  border-right: 1px solid #ddd;
+  box-shadow: 2px 0 5px rgba(0, 0, 0, 0.1);
+  background: #f8f9fa;
+}
+
+.filter-panel{
+  width: 90%;
+  padding: 20px;
+  border-right: 1px solid #ddd;
+  box-shadow: 2px 0 5px rgba(0, 0, 0, 0.1);
+  background: #f8f9fa;
+  display: flex;
+}
+.filter-panel p{
+  font-weight: bold;
+  padding: 0 10px;
+}
+
+.filter-panel form{
+  display: flex;
+  flex-direction: row;
+  width: 450px;
+}
+
+
+.map-view {
+  flex: 1;
+}
+
+.search-bar-container {
+  position: relative;
+}
+
+.search-popup {
+  display: flex;
+  align-items: center;
+  padding: 10px;
+}
+
+.search-popup .MuiInputBase-root {
+  flex: 1;
+  margin-right: 10px;
+}
+
+.profileButton{
+  display: flex;
+  flex-direction: row;
+}
+
+@media (max-width: 1440px) and (min-width:769px) {
+  .filter-panel {
+    display: ruby-text;
+  }
+  .filter-panel select{
+    padding: 8px;
+  }
+  .filter-panel form {
+    display: contents;
+  }
+}
+
+/* Media Queries for Responsive Design */
+@media (max-width: 768px) {
+  .app {
+    flex-direction: column;
+  }
+  
+  .search-panel {
+    width: 100%;
+    height: auto;
+    box-shadow: none;
+    border-right: none;
+    border-bottom: 1px solid #ddd;
+  }
+  
+  .map-view {
+    flex: none;
+    height: calc(100vh - 200px); /* Adjust height based on search panel */
+  }
+}
+
+@media (max-width: 576px) {
+  .map-view {
+    height: calc(100vh - 150px); /* Adjust height based on search panel */
+  }
+}
+
+/* Mobile map adjustments */
+.mobile-map {
+  height: calc(100vh - 200px); /* Adjust based on the search panel height */
+}
+
+/* Ensure the map and search panel look good on small screens */
+@media (max-width: 576px) {
+  .search-panel {
+    padding: 10px;
+  }
+  
+  .mobile-map {
+    height: calc(100vh - 150px); /* Further adjust for smaller screens */
+  }
+}
